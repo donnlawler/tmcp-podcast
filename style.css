@@ -20,10 +20,10 @@ main {
 }
 
 img {
-  max-width: 70%;
+  max-width: 65%;
   height: auto;
   display: block;
-  margin: 0 auto 2rem auto;
+  margin: 0 auto 1rem auto;
 }
 
 a {
