@@ -6,28 +6,72 @@ title: Episodes
 
 [Home](./)
 
-# Season 1
+## Season 1
 
-<div style="columns: 2; column-gap: 3rem;">
+### Pilot Episode
 
-## Mob and Gangster
+- Episode 00: Pilot Episode
 
-- Episode 1: The Godfather
-- Episode 2: Goodfellas
-- Episode 3: The Irishman
-- Episode 4: Scarface
-- Episode 5: Donnie Brasco
+### Mob and Gangster
 
-## Star Wars
+- Episode 101: The Godfather
+- Episode 102: Goodfellas
+- Episode 103: The Irishman
+- Episode 104: Scarface
+- Episode 105: Donnie Brasco
 
-- Episode 6: Star Wars Episode I: The Phantom Menace
-- Episode 7: Star Wars Episode II: Attack of the Clones
-- Episode 8: Star Wars Episode III: Revenge of the Sith
-- Episode 9: Star Wars Episode IV: A New Hope
-- Episode 10: Star Wars Episode V: The Empire Strikes Back
-- Episode 11: Star Wars Episode VI: Return of the Jedi
-- Episode 12: Star Wars Episode VII: The Force Awakens
-- Episode 13: Star Wars Episode VIII: The Last Jedi
-- Episode 14: Star Wars Episode IX: The Rise of Skywalker
+### Star Wars
 
-</div>
+- Episode 106: Star Wars Episode I: The Phantom Menace
+- Episode 107: Star Wars Episode II: Attack of the Clones
+- Episode 108: Star Wars Episode III: Revenge of the Sith
+- Episode 109: Star Wars Episode IV: A New Hope
+- Episode 110: Star Wars Episode V: The Empire Strikes Back
+- Episode 111: Star Wars Episode VI: Return of the Jedi
+- Episode 112: Star Wars Episode VII: The Force Awakens
+- Episode 113: Star Wars Episode VIII: The Last Jedi
+- Episode 114: Star Wars Episode IX: The Rise of Skywalker
+
+### John Wick
+
+- Episode 115:
+- Episode 116:
+- Episode 117:
+- Episode 118:
+- Episode 119:
+
+### Noir
+
+- Episode 120:
+- Episode 121:
+- Episode 122:
+- Episode 123:
+- Episode 124:
+
+### Sci Fi
+
+- Episode 125:
+- Episode 126:
+- Episode 127:
+- Episode 128:
+- Episode 129:
+
+### Horror
+
+- Episode 130:
+- Episode 131:
+- Episode 132:
+- Episode 133:
+- Episode 134:
+
+### Fantasy
+
+- Episode 135:
+- Episode 136:
+- Episode 137:
+- Episode 138:
+- Episode 139:
+
+### Sign Off Season 1
+
+- Episode 140: Season 1 Sign Off
