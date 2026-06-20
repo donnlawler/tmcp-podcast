@@ -16,8 +16,8 @@ body {
 .site-header {
   display: block;
   width: 100%;
-  max-width: 1000px;
-  margin: 1rem auto 4rem auto;
+  max-width: 1100px;
+  margin: 0 auto 2rem auto;
   height: auto;
 }
 
