@@ -7,9 +7,7 @@
 
 body {
   background: var(--tmcp-black);
-  color: var(--tmcp-white);
-}
-
+  color: var(--tmcp-gold);
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
   margin: 0;
