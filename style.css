@@ -100,3 +100,15 @@ hr {
 .markdown-body a:hover {
   color: var(--tmcp-red) !important;
 }
+
+body {
+  padding-top: 0;
+}
+
+main {
+  padding-top: 0;
+}
+
+img {
+  margin-top: 0;
+}
