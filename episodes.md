@@ -8,7 +8,7 @@ title: Episodes
 
 ## Season 1
 
-Coming soon.
+- [Episode 1: Test Transcript](./transcripts/s1e01)
 
 ## Season 2
 
