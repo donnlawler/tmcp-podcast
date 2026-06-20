@@ -4,8 +4,6 @@ title: Home
 
 ![The Minimum Commitment](./tmcp-banner.jpg)
 
-# The Minimum Commitment
-
 ## Film Theory in Small Doses
 
 A podcast about movies, meaning, and the ideas hiding beneath the surface.
