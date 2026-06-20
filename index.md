@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![The Minimum Commitment](./tmcp-banner.jpg)
+![The Minimum Commitment](./tmcp-header.png)
 
 A podcast about movies, meaning, and the ideas hiding beneath the surface.
 
