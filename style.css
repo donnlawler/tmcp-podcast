@@ -13,6 +13,14 @@ body {
   padding: 0;
 }
 
+.site-header {
+  display: block;
+  width: 100%;
+  max-width: 1400px;
+  margin: 2rem auto 3rem auto;
+  height: auto;
+}
+
 main {
   max-width: 1000px;
   margin: 0 auto;
