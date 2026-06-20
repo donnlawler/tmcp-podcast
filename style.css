@@ -5,16 +5,16 @@
 }
 
 body {
-  background: var(--tmcp-black);
+  background-color: var(--tmcp-black);
   color: var(--tmcp-gold);
   font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.6;
+  line-height: 1.7;
   margin: 0;
   padding: 0;
 }
 
 main {
-  max-width: 900px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 2rem;
 }
@@ -22,6 +22,8 @@ main {
 img {
   max-width: 100%;
   height: auto;
+  display: block;
+  margin: 0 auto 2rem auto;
 }
 
 a {
@@ -35,10 +37,26 @@ a:hover {
 
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5,
+h6 {
   color: var(--tmcp-gold);
+  border-bottom: none !important;
+  text-decoration: none;
   line-height: 1.2;
   letter-spacing: 0.03em;
+}
+
+p {
+  color: var(--tmcp-gold);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--tmcp-gold);
+  opacity: 0.35;
+  margin: 3rem 0;
 }
 
 .button {
@@ -56,15 +74,29 @@ h3 {
   color: var(--tmcp-red);
 }
 
-hr {
-  border: 0;
-  border-top: 1px solid #BEB797;
-  opacity: 0.35;
-  margin: 3rem 0;
-}
+/* GitHub Pages theme overrides */
 
+.markdown-body,
 .markdown-body h1,
 .markdown-body h2,
-.markdown-body h3 {
-  border-bottom: none;
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6,
+.markdown-body p {
+  color: var(--tmcp-gold) !important;
+  border-bottom: none !important;
+}
+
+.markdown-body hr {
+  border-top: 1px solid var(--tmcp-gold) !important;
+  opacity: 0.35;
+}
+
+.markdown-body a {
+  color: var(--tmcp-gold) !important;
+}
+
+.markdown-body a:hover {
+  color: var(--tmcp-red) !important;
 }
