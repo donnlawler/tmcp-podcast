@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![The Minimum Commitment](./tmcp-header.png)
+<img src="./tmcp-header.png" alt="The Minimum Commitment" class="site-header">
 
 A podcast about movies, meaning, and the ideas hiding beneath the surface.
 
