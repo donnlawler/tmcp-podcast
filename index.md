@@ -18,22 +18,22 @@ Each episode takes one film and one theory, then breaks it down in a way that fe
 
 ## Listen Now
 
-Spotify
+[Spotify](YOUR SPOTIFY LINK)
 
-Apple Podcasts
+[Apple Podcasts](YOUR APPLE LINK)
 
-Amazon Music
+[Amazon Music](YOUR AMAZON LINK)
 
-Episodes
+[Episodes](./episodes)
 
 ---
 
 ## About the Show
 
-...
+Your show description goes here.
 
 ---
 
 ## About Donn
 
-...
+Your bio goes here.
