@@ -2,7 +2,6 @@
   --tmcp-black: #000000;
   --tmcp-gold: #BEB797;
   --tmcp-red: #722622;
-  --tmcp-white: #FFFFFF;
 }
 
 body {
@@ -27,21 +26,31 @@ img {
 
 a {
   color: var(--tmcp-gold);
+  text-decoration: none;
 }
 
 a:hover {
   color: var(--tmcp-red);
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   color: var(--tmcp-gold);
+  line-height: 1.2;
 }
 
 .button {
   display: inline-block;
-  border: 1px solid #ffffff;
+  border: 1px solid var(--tmcp-gold);
+  color: var(--tmcp-gold);
   padding: 0.75rem 1rem;
   margin: 0.5rem 0.5rem 0.5rem 0;
-  text-decoration: none;
   border-radius: 6px;
+  text-decoration: none;
+}
+
+.button:hover {
+  border-color: var(--tmcp-red);
+  color: var(--tmcp-red);
 }
