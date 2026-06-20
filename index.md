@@ -12,8 +12,6 @@ title: Home
 
 A podcast about movies, meaning, and the ideas hiding beneath the surface.
 
----
-
 Each episode takes one film and one theory, then breaks it down in a way that feels clear, useful, and connected to the experience of watching.
 
 ## Listen Now
