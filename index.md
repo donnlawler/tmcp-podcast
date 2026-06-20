@@ -2,6 +2,8 @@
 title: Home
 ---
 
+![The Minimum Commitment](./tmcp-banner.jpg)
+
 # The Minimum Commitment
 
 ## Film Theory in Small Doses
