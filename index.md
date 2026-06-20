@@ -2,8 +2,6 @@
 title: Home
 ---
 
-<link rel="stylesheet" href="./style.css">
-
 ![The Minimum Commitment](./tmcp-banner.jpg)
 
 A podcast about movies, meaning, and the ideas hiding beneath the surface.
