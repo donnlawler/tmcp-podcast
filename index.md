@@ -2,6 +2,8 @@
 title: Home
 ---
 
+<link rel="stylesheet" href="./style.css">
+
 ![The Minimum Commitment](./tmcp-banner.jpg)
 
 # The Minimum Commitment
