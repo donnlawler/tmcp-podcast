@@ -54,3 +54,9 @@ h3 {
   border-color: var(--tmcp-red);
   color: var(--tmcp-red);
 }
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--tmcp-gold);
+  margin: 2rem 0;
+}
