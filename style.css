@@ -1,6 +1,15 @@
+:root {
+  --tmcp-black: #000000;
+  --tmcp-gold: #BEB797;
+  --tmcp-red: #722622;
+  --tmcp-white: #FFFFFF;
+}
+
 body {
-  background: #000000;
-  color: #BEB797;
+  background: var(--tmcp-black);
+  color: var(--tmcp-white);
+}
+
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
   margin: 0;
@@ -19,23 +28,15 @@ img {
 }
 
 a {
-  color: #BEB797;
+  color: var(--tmcp-gold);
 }
 
 a:hover {
-  color: #722622;
+  color: var(--tmcp-red);
 }
 
-h1 {
-  color: #BEB797;
-}
-
-h2 {
-  color: #BEB797;
-}
-
-h3 {
-  color: #BEB797;
+h1, h2, h3 {
+  color: var(--tmcp-gold);
 }
 
 .button {
