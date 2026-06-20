@@ -12,11 +12,13 @@ A podcast about movies, meaning, and the ideas hiding beneath the surface.
 
 Each episode takes one film and one theory, then breaks it down in a way that feels clear, useful, and connected to the experience of watching.
 
-[Apple Podcasts](YOUR APPLE PODCASTS LINK)
+## Listen Now
 
-[Spotify](YOUR SPOTIFY LINK)
+[Spotify](YOUR-SPOTIFY-LINK)
 
-[Amazon Music](YOUR AMAZON MUSIC LINK)
+[Apple Podcasts](YOUR-APPLE-LINK)
+
+[Amazon Music](YOUR-AMAZON-LINK)
 
 [Episodes](./episodes)
 
