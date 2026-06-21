@@ -11,13 +11,34 @@ title: Season 1
 
 - Episode 0: Pilot Episode
 
-## Mob and Gangster
+<section class="arc">
 
-- [Episode 101: The Godfather](/tmcp-podcast/transcripts/s1e01)
-- Episode 102: Goodfellas
-- Episode 103: The Irishman
-- Episode 104: Scarface
-- Episode 105: Donnie Brasco
+<h2>Mob and Gangster</h2>
+
+<p class="arc-description">
+Crime films transform criminals into myths, identities, and cultural symbols.
+</p>
+
+<div class="episode-list">
+
+<a href="/tmcp-podcast/transcripts/s1e01" class="episode-card">
+  <span class="episode-number">Episode 101: The Godfather</span>
+  <span class="episode-subtitle">Power, Silence, and the Death of Michael Corleone</span>
+</a>
+
+<a href="#" class="episode-card">
+  <span class="episode-number">Episode 102: Goodfellas</span>
+  <span class="episode-subtitle">The Performance of the Gangster</span>
+</a>
+
+<a href="#" class="episode-card">
+  <span class="episode-number">Episode 103: The Irishman</span>
+  <span class="episode-subtitle">Memory, Regret, and the Stories We Tell Ourselves</span>
+</a>
+
+</div>
+
+</section>
 
 ## Star Wars
 
