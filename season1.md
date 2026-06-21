@@ -13,7 +13,7 @@ title: Season 1
 
 ## Mob and Gangster
 
-- [Episode 101: The Godfather](./transcripts/s1e01.md)
+- [Episode 101: The Godfather](/tmcp-podcast/transcripts/s1e01)
 - Episode 102: Goodfellas
 - Episode 103: The Irishman
 - Episode 104: Scarface
