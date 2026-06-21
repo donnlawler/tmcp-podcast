@@ -6,8 +6,12 @@ title: Home
 <img src="./tmcp-header.png" alt="The Minimum Commitment" class="site-header">
 
 Most films are watched once and forgotten.
+
 The Minimum Commitment begins with the second viewing.
-Through film theory, criticism, and close observation, each episode explores the ideas, emotions, and questions hiding beneath the surface of cinema.
+
+Through film theory, criticism, and close observation, 
+each episode explores the ideas, emotions, and questions hiding beneath the surface of cinema.
+
 Because great films do more than entertain.
 They invite us to see the world differently.
 
