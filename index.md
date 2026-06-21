@@ -28,8 +28,6 @@ An idea.
 A new way of seeing.
 </p>
 
-<h2>Listen Now</h2>
-
 <a href="SPOTIFY LINK" class="button">Spotify</a>
 <a href="APPLE LINK" class="button">Apple Podcasts</a>
 <a href="AMAZON LINK" class="button">Amazon Music</a>
