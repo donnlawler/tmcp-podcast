@@ -7,17 +7,25 @@ title: Home
 
 <div class="centered">
 
+<p>
 Most films are watched once and forgotten.
+</p>
 
+<p>
 The Minimum Commitment begins with the second viewing.
+</p>
 
+<p>
 Through film theory, criticism, and close observation, each episode explores the ideas, emotions, and questions hiding beneath the surface of cinema.
+</p>
 
+<p>
 Because great films do more than entertain.
 
 They invite us to see the world differently.
+</p>
 
-## Listen Now
+<h2>Listen Now</h2>
 
 <a href="SPOTIFY LINK" class="button">Spotify</a>
 <a href="APPLE LINK" class="button">Apple Podcasts</a>
