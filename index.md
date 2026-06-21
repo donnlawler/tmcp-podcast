@@ -16,13 +16,16 @@ The Minimum Commitment begins with the second viewing.
 </p>
 
 <p>
-Through film theory, criticism, and close observation, each episode explores the ideas, emotions, and questions hiding beneath the surface of cinema.
+Each episode uses film theory as a lens for deeper engagement, transforming complex ideas into clear and accessible conversations about the movies we love.
 </p>
 
 <p>
-Because great films do more than entertain.
+Because beneath every great film lies something more than a story.
+A question.
 
-They invite us to see the world differently.
+An idea.
+
+A new way of seeing.
 </p>
 
 <h2>Listen Now</h2>
