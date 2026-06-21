@@ -119,3 +119,19 @@ main {
 img {
   margin-top: 0;
 }
+
+.centered {
+  text-align: center;
+  max-width: 850px;
+  margin: 0 auto 3rem auto;
+}
+
+.home-section {
+  max-width: 850px;
+  margin: 3rem auto;
+}
+
+.final-action {
+  text-align: center;
+  margin: 4rem auto 2rem auto;
+}
