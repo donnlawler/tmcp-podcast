@@ -13,13 +13,10 @@ Each episode takes one film and one theory, then breaks it down in a way that fe
 
 ## Listen Now
 
-[Spotify](YOUR SPOTIFY LINK)
-
-[Apple Podcasts](YOUR APPLE LINK)
-
-[Amazon Music](YOUR AMAZON LINK)
-
-[Episodes](./episodes)
+<a href="YOUR SPOTIFY LINK" class="button">Spotify</a>
+<a href="YOUR APPLE PODCASTS LINK" class="button">Apple Podcasts</a>
+<a href="YOUR AMAZON MUSIC LINK" class="button">Amazon Music</a>
+<a href="./episodes" class="button">Episodes</a>
 
 ---
 
