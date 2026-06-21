@@ -67,12 +67,13 @@ hr {
 
 .button {
   display: inline-block;
-  border: 1px solid var(--tmcp-gold);
+  border: 2px solid var(--tmcp-gold);
   color: var(--tmcp-gold);
-  padding: 0.75rem 1rem;
-  margin: 0.5rem 0.5rem 0.5rem 0;
-  border-radius: 6px;
+  padding: 0.8rem 1.5rem;
+  margin: 0.75rem;
+  border-radius: 999px;
   text-decoration: none;
+  transition: 0.2s ease;
 }
 
 .button:hover {
