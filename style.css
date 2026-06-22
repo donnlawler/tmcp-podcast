@@ -235,3 +235,13 @@ img {
     grid-template-columns: 1fr;
   }
 }
+
+.season-home-button {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.season-home-button .button {
+  margin-left: auto;
+  margin-right: auto;
+}
