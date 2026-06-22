@@ -9,11 +9,16 @@ title: Season 1
 
 A collection of films exploring power, identity, fear, memory, and the myths that shape our understanding of the world.
 
-[Back to Episodes](./episodes)
+<a href="/tmcp-podcast/episodes" class="button">Back to Episodes</a>
 
 </div>
 
 <div class="arc-grid">
+
+<a href="/tmcp-podcast/episodes#pilot" class="arc-package">
+  <span class="arc-theme">Pilot Episode</span>
+  <span class="arc-title">Begin Here</span>
+</a>
 
 <a href="/tmcp-podcast/episodes#organized-crime" class="arc-package">
   <span class="arc-theme">Organized Crime</span>
@@ -45,6 +50,19 @@ A collection of films exploring power, identity, fear, memory, and the myths tha
   <span class="arc-title">The Decline of the Western Myth</span>
 </a>
 
-</div>
+<a href="/tmcp-podcast/episodes#horror" class="arc-package">
+  <span class="arc-theme">Horror</span>
+  <span class="arc-title">There Is a Reason You're Afraid</span>
+</a>
 
-- Episode 140: Season 1 Sign Off
+<a href="/tmcp-podcast/episodes#fantasy" class="arc-package">
+  <span class="arc-theme">Fantasy</span>
+  <span class="arc-title">The Quest Is Only Part of the Story</span>
+</a>
+
+<a href="/tmcp-podcast/episodes#season-one-signoff" class="arc-package">
+  <span class="arc-theme">Season 1 Sign Off</span>
+  <span class="arc-title">Until the Next Viewing</span>
+</a>
+
+</div>
