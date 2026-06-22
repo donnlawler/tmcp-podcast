@@ -5,9 +5,11 @@ title: Season 1
 
 <div class="season-intro">
 
-# Season 1
+SEASON 1
 
-A collection of films exploring power, identity, fear, memory, and the myths that shape our understanding of the world.
+A collection of films exploring power, identity,
+fear, memory, and the myths that shape our
+understanding of the world.
 
 <a href="/tmcp-podcast/episodes" class="button">Back to Episodes</a>
 
