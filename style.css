@@ -214,6 +214,14 @@ img {
   transition: 0.2s ease;
 }
 
+.arc-theme {
+  text-align: center;
+}
+
+.arc-title {
+  text-align: center;
+}
+
 .arc-package:hover {
   background: rgba(114, 38, 34, 0.18);
   border-color: var(--tmcp-red);
