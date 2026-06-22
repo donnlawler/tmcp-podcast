@@ -189,6 +189,11 @@ img {
   margin: 0 auto 3rem auto;
 }
 
+.season-intro .button {
+  display: inline-block;
+  margin-top: 1.5rem;
+}
+
 .arc-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
