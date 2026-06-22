@@ -245,3 +245,11 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+.season-title {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: var(--tmcp-gold);
+  font-family: "Bodoni Moda", Georgia, serif;
+}
