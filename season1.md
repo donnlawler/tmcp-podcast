@@ -3,6 +3,8 @@ layout: default
 title: Season 1
 ---
 
+<img src="./tmcp-header.png" alt="The Minimum Commitment" class="site-header">
+
 <div class="season-intro">
 
 SEASON 1
