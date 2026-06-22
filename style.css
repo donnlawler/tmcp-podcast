@@ -203,9 +203,13 @@ img {
 }
 
 .arc-package {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
   border: 1px solid var(--tmcp-gold);
-  padding: 1.25rem;
+  padding: 0.9rem 1.25rem;
+
   text-decoration: none;
   transition: 0.2s ease;
 }
