@@ -15,7 +15,7 @@ and the myths that shape our understanding of the world.
 </p>
 
 <div class="season-home-button">
-  <a href="/" class="button">Home</a>
+  <a href="/tmcp-podcast/" class="button">Home</a>
 </div>
 
 </div>
