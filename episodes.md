@@ -1,10 +1,14 @@
 <section id="organized-crime" class="episode-collection">
 
+<div class="collection-intro">
+
 <h1>Organized Crime</h1>
 
 <h2>Blood and Loyalty</h2>
 
 <a href="/tmcp-podcast/season1" class="button">Back to Season 1</a>
+
+</div>
 
 <div class="episode-list">
 
