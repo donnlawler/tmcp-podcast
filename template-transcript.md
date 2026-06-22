@@ -3,6 +3,8 @@ layout: default
 title: Episode Title
 ---
 
+<img src="./tmcp-header.png" alt="The Minimum Commitment" class="site-header">
+
 # Episode Title
 
 [← Back to Season](../season2)
