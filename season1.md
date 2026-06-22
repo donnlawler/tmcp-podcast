@@ -11,97 +11,45 @@ title: Season 1
 
 - Episode 0: Pilot Episode
 
-<section class="arc">
+<div class="season-intro">
 
-<h2>Mob and Gangster</h2>
+# Season 1
 
-<p class="arc-description">
-Crime films transform criminals into myths, identities, and cultural symbols.
-</p>
-
-<div class="episode-list">
-
-<a href="/tmcp-podcast/transcripts/s1e01" class="episode-card">
-  <span class="episode-number">Episode 101: The Godfather</span>
-  <span class="episode-subtitle">Power, Silence, and the Death of Michael Corleone</span>
-</a>
-
-<a href="#" class="episode-card">
-  <span class="episode-number">Episode 102: Goodfellas</span>
-  <span class="episode-subtitle">The Performance of the Gangster</span>
-</a>
-
-<a href="#" class="episode-card">
-  <span class="episode-number">Episode 103: The Irishman</span>
-  <span class="episode-subtitle">Memory, Regret, and the Stories We Tell Ourselves</span>
-</a>
-
-<a href="#" class="episode-card">
-  <span class="episode-number">Episode 104: Scarface</span>
-  <span class="episode-subtitle">The American Dream Consumed by Excess</span>
-</a>
-
-<a href="#" class="episode-card">
-  <span class="episode-number">Episode 105: Donnie Brasco</span>
-  <span class="episode-subtitle">Identity Between Two Worlds</span>
-</a>
+A collection of films exploring power, identity, fear, memory, and the myths that shape our understanding of the world.
 
 </div>
 
-</section>
+<div class="arc-grid">
 
-## Star Wars
+<a href="/tmcp-podcast/episodes#organized-crime" class="arc-package">
+  <span class="arc-theme">Organized Crime</span>
+  <span class="arc-title">Blood and Loyalty</span>
+</a>
 
-- Episode 106: Star Wars Episode I: The Phantom Menace
-- Episode 107: Star Wars Episode II: Attack of the Clones
-- Episode 108: Star Wars Episode III: Revenge of the Sith
-- Episode 109: Star Wars Episode IV: A New Hope
-- Episode 110: Star Wars Episode V: The Empire Strikes Back
-- Episode 111: Star Wars Episode VI: Return of the Jedi
-- Episode 112: Star Wars Episode VII: The Force Awakens
-- Episode 113: Star Wars Episode VIII: The Last Jedi
-- Episode 114: Star Wars Episode IX: The Rise of Skywalker
+<a href="/tmcp-podcast/episodes#star-wars" class="arc-package">
+  <span class="arc-theme">Star Wars</span>
+  <span class="arc-title">The Skywalker Saga</span>
+</a>
 
-## John Wick
+<a href="/tmcp-podcast/episodes#john-wick" class="arc-package">
+  <span class="arc-theme">John Wick</span>
+  <span class="arc-title">There Is No Exit</span>
+</a>
 
-- Episode 115:
-- Episode 116:
-- Episode 117:
-- Episode 118:
-- Episode 119:
+<a href="/tmcp-podcast/episodes#film-noir" class="arc-package">
+  <span class="arc-theme">Film Noir</span>
+  <span class="arc-title">Nobody Gets Away Clean</span>
+</a>
 
-## Noir
+<a href="/tmcp-podcast/episodes#science-fiction" class="arc-package">
+  <span class="arc-theme">Science Fiction</span>
+  <span class="arc-title">Future. Memory. Meaning.</span>
+</a>
 
-- Episode 120:
-- Episode 121:
-- Episode 122:
-- Episode 123:
-- Episode 124:
+<a href="/tmcp-podcast/episodes#western" class="arc-package">
+  <span class="arc-theme">Western</span>
+  <span class="arc-title">The Decline of the Western Myth</span>
+</a>
 
-## Sci Fi
-
-- Episode 125:
-- Episode 126:
-- Episode 127:
-- Episode 128:
-- Episode 129:
-
-## Horror
-
-- Episode 130:
-- Episode 131:
-- Episode 132:
-- Episode 133:
-- Episode 134:
-
-## Fantasy
-
-- Episode 135:
-- Episode 136:
-- Episode 137:
-- Episode 138:
-- Episode 139:
-
-## Sign Off Season 1
-
+</div>
 - Episode 140: Season 1 Sign Off
