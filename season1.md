@@ -3,19 +3,13 @@ layout: default
 title: Season 1
 ---
 
-# Season 1
-
-[Back to Episodes](./episodes)
-
-## Pilot Episode
-
-- Episode 0: Pilot Episode
-
 <div class="season-intro">
 
 # Season 1
 
 A collection of films exploring power, identity, fear, memory, and the myths that shape our understanding of the world.
+
+[Back to Episodes](./episodes)
 
 </div>
 
