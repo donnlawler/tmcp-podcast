@@ -1,3 +1,10 @@
+---
+layout: default
+title: Episodes
+---
+
+<img src="./tmcp-header.png" alt="The Minimum Commitment" class="site-header">
+
 <section id="organized-crime" class="episode-collection">
 
 <div class="collection-intro">
@@ -6,7 +13,9 @@
 
 <h2>Blood and Loyalty</h2>
 
+<div class="collection-home-button">
 <a href="/tmcp-podcast/season1" class="button">Back to Season 1</a>
+</div>
 
 </div>
 
