@@ -258,6 +258,6 @@ img {
 .season-intro p {
   max-width: 700px;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   line-height: 1.6;
 }
