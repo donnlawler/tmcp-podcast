@@ -182,3 +182,51 @@ img {
   color: var(--tmcp-gold);
   opacity: 0.85;
 }
+
+.season-intro {
+  text-align: center;
+  max-width: 850px;
+  margin: 0 auto 3rem auto;
+}
+
+.arc-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  max-width: 1000px;
+  margin: 0 auto 4rem auto;
+}
+
+.arc-package {
+  display: block;
+  border: 1px solid var(--tmcp-gold);
+  padding: 1.25rem;
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+.arc-package:hover {
+  background: rgba(114, 38, 34, 0.18);
+  border-color: var(--tmcp-red);
+}
+
+.arc-theme {
+  display: block;
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--tmcp-gold);
+  margin-bottom: 0.35rem;
+}
+
+.arc-title {
+  display: block;
+  font-size: 1.35rem;
+  color: var(--tmcp-gold);
+}
+
+@media (max-width: 700px) {
+  .arc-grid {
+    grid-template-columns: 1fr;
+  }
+}
