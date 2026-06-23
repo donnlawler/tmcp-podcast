@@ -326,3 +326,8 @@ img {
   margin: 0 auto;
   line-height: 1.8;
 }
+
+#books {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+}
