@@ -91,7 +91,7 @@ Five arcs exploring love, competition, myth, crime, and identity through film.
 
   <a href="#" class="arc-package">
     <span class="arc-theme">Athletics on Film</span>
-    <span class="arc-title">The Pursuit of Greatness</span>
+    <span class="arc-title">The Measure of Ourselves</span>
   </a>
 
   <a href="#" class="arc-package">
@@ -100,12 +100,12 @@ Five arcs exploring love, competition, myth, crime, and identity through film.
   </a>
 
   <a href="#" class="arc-package">
-    <span class="arc-theme">Crime Drama</span>
+    <span class="arc-theme">Criminal Professionals</span>
     <span class="arc-title">The Discipline of Crime</span>
   </a>
 
   <a href="#" class="arc-package">
-    <span class="arc-theme">Solo Performance</span>
+    <span class="arc-theme">The Solitary Character</span>
     <span class="arc-title">No One Else Is Coming</span>
   </a>
 
