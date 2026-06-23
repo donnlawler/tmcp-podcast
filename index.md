@@ -47,4 +47,10 @@ Topics range from iconic blockbusters to cult favorites and horror classics. One
 
 ## About Donn
 
-Your bio goes here.
+Donn Lawler is a film scholar, audio engineer, educator, and lifelong student of cinema. With more than three decades of experience in sound production and a master’s degree in Film and Media Studies from Arizona State University, his work sits at the intersection of film criticism, theory, and storytelling.
+
+His interests range from horror and science fiction to film noir, westerns, and contemporary cinema, with a particular focus on how films create meaning through image, sound, structure, and performance. Through The Minimum Commitment, he explores the ideas beneath the movies we love, translating film theory into accessible conversations for curious viewers.
+
+For Donn, films are more than entertainment. They are expressions of who we are, what we fear, what we hope for, and how we make sense of the world around us.
+
+When not writing, teaching, or producing podcasts, he can usually be found watching another film and asking why it works.
