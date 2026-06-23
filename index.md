@@ -26,11 +26,16 @@ A question. An idea.
 A new way&nbsp;of&nbsp;seeing.
 </p>
 
-<a href="SPOTIFY LINK" class="button">Spotify</a>
-<a href="APPLE LINK" class="button">Apple Podcasts</a>
-<a href="AMAZON LINK" class="button">Amazon Music</a>
-<a href="IHEARTRADIO LINK" class="button">iHeartRadio</a>
-<a href="YOUTUBE LINK" class="button">YouTube</a>
+<a href="https://open.spotify.com/show/38UjDbm4vwj285nMB9AvjO?si=7bfc779e5a2c4e42" class="button" target="_blank">Spotify</a>
+
+<a href="https://podcasts.apple.com/us/podcast/the-minimum-commitment-film-theory-in-small-doses/id1812207399" class="button" target="_blank">Apple Podcasts</a>
+
+<a href="https://music.amazon.com/podcasts/13fe6d8d-379b-4c8f-bbbc-78a6a4a8503d/the-minimum-commitment-film-theory-in-small-doses" class="button" target="_blank">Amazon Music</a>
+
+<a href="https://www.iheart.com/podcast/269-the-minimum-commitment-fil-274006164/" class="button" target="_blank">iHeartRadio</a>
+
+<a href="https://www.youtube.com/@TheMinimumCommitment/podcasts" class="button" target="_blank">YouTube</a>
+
 <a href="./season1" class="button">Seasons</a>
 
 </div>
