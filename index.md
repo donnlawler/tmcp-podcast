@@ -81,3 +81,19 @@ When not writing, teaching, or producing podcasts, he can usually be found watch
 </p>
 
 </div>
+
+<hr>
+
+<h2 id="books">Books</h2>
+
+<div class="about-donn-content">
+
+<p>
+Interested in exploring these ideas further? Donn is also the author of books examining film, media, and culture through a critical lens.
+</p>
+
+<p>
+<a href="YOUR-LINK-HERE" class="button">Read on Apple Books</a>
+</p>
+
+</div>
