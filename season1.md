@@ -123,5 +123,10 @@ Curated collections examining how films create meaning through image, sound, sto
     <span class="arc-theme">The Lord of the Rings</span>
     <span class="arc-title">Coming Soon</span>
   </a>
+
+    <a href="#" class="arc-package">
+    <span class="arc-theme">Season 2 Sign Off</span>
+    <span class="arc-title">Coming Soon</span>
+  </a>
   
 </div>
