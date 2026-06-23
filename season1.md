@@ -10,8 +10,7 @@ title: Season 1
 <h2 class="season-title">Season 1</h2>
 
 <p>
-A collection of films exploring power, identity, fear, memory, 
-and the myths that shape our understanding of the world.
+Curated collections examining how films create meaning through image, sound, story, and design.
 </p>
 
 <div class="season-home-button">
@@ -77,10 +76,6 @@ and the myths that shape our understanding of the world.
 <hr>
 
 <h2 class="season-title">Season 2</h2>
-
-<p class="season-description">
-Five arcs exploring love, competition, myth, crime, and identity through film.
-</p>
 
 <div class="arc-grid">
 
