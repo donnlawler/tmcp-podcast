@@ -88,6 +88,8 @@ When not writing, teaching, or producing podcasts, he can usually be found watch
 
 <h2 id="books">Books</h2>
 
+</div> 
+
 <p>
 If you enjoyed the ideas explored in The Minimum Commitment, you may also enjoy Formalism Explained, a guide to understanding how films create meaning through image, sound, editing, performance, and design.
 </p>
