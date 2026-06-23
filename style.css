@@ -331,3 +331,9 @@ img {
   font-family: "Inter", sans-serif;
   font-weight: 300;
 }
+
+.season-description {
+  max-width: 750px;
+  margin: 0 auto 2rem auto;
+  text-align: center;
+}
