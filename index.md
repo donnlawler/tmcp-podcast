@@ -21,11 +21,9 @@ Each episode uses film theory as a lens for deeper engagement, transforming comp
 
 <p>
 Because beneath every great film lies something more than a story.
-A question.
-
-An idea.
-
-A new way of seeing.
+A question. An idea.
+<br><br>
+A new way&nbsp;of&nbsp;seeing.
 </p>
 
 <a href="SPOTIFY LINK" class="button">Spotify</a>
