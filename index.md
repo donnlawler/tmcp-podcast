@@ -89,11 +89,13 @@ When not writing, teaching, or producing podcasts, he can usually be found watch
 <div class="about-donn-content">
 
 <p>
-Interested in exploring these ideas further? Donn is also the author of books examining film, media, and culture through a critical lens.
+If you enjoyed the ideas explored in The Minimum Commitment, you may also enjoy Formalism Explained, a guide to understanding how films create meaning through image, sound, editing, performance, and design.
 </p>
 
 <p>
-<a href="YOUR-LINK-HERE" class="button">Read on Apple Books</a>
+<a href="https://books.apple.com/us/book/formalism-explained-how-movies-speak-beneath-the-story/id6773917988" class="button">
+Formalism Explained
+</a>
 </p>
 
 </div>
