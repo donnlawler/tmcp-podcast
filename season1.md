@@ -73,3 +73,40 @@ and the myths that shape our understanding of the world.
 </a>
 
 </div>
+
+<hr>
+
+<h2 class="season-title">Season 2</h2>
+
+<p class="season-description">
+Five arcs exploring love, competition, myth, crime, and identity through film.
+</p>
+
+<div class="arc-grid">
+
+  <a href="#" class="arc-package">
+    <span class="arc-theme">Romantic Comedy</span>
+    <span class="arc-title">Love, Actually</span>
+  </a>
+
+  <a href="#" class="arc-package">
+    <span class="arc-theme">Athletics on Film</span>
+    <span class="arc-title">The Pursuit of Greatness</span>
+  </a>
+
+  <a href="#" class="arc-package">
+    <span class="arc-theme">The Western</span>
+    <span class="arc-title">The Decline of the Western Myth</span>
+  </a>
+
+  <a href="#" class="arc-package">
+    <span class="arc-theme">Crime Drama</span>
+    <span class="arc-title">The Discipline of Crime</span>
+  </a>
+
+  <a href="#" class="arc-package">
+    <span class="arc-theme">Solo Performance</span>
+    <span class="arc-title">No One Else Is Coming</span>
+  </a>
+
+</div>
