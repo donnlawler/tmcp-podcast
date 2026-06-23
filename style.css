@@ -299,3 +299,18 @@ img {
   font-family: "Inter", sans-serif;
   font-weight: 300;
 }
+
+#about-the-show,
+#about-donn {
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#about-the-show + p,
+#about-donn + p {
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.8;
+}
