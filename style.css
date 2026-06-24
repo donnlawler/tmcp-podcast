@@ -442,3 +442,7 @@ img {
   color: var(--tmcp-gold);
   margin-top: 0;
 }
+
+.collection-home-button {
+    margin-top: 2rem;
+}
