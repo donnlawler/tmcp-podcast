@@ -165,7 +165,7 @@ See you next time.
 <div class="episode-nav">
 
 <a href="/tmcp-podcast/transcripts/goodfellas" class="button">
-← The Godfather
+← Goodfellas
 </a>
 
 <a href="/tmcp-podcast/episodes#organized-crime" class="button">
@@ -173,7 +173,7 @@ Back to Episodes
 </a>
 
 <a href="/tmcp-podcast/transcripts/scarface" class="button">
-The Irishman →
+Scarface →
 </a>
 
 </div>
