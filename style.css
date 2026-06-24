@@ -397,3 +397,37 @@ img {
   flex-wrap: wrap;
   margin: 4rem auto 2rem auto;
 }
+
+.episode-card {
+  display: block;
+  max-width: 800px;
+  margin: 0 auto 1.5rem auto;
+  padding: 1.25rem 1.5rem;
+  border-left: 3px solid var(--tmcp-red);
+  text-decoration: none;
+  background: transparent;
+  transition: 0.2s ease;
+}
+
+.episode-card:hover {
+  background: rgba(114, 38, 34, 0.18);
+}
+
+.episode-card .episode-number {
+  display: block;
+  font-family: "Libre Bodoni", "Bodoni 72", "Bodoni MT", Didot, serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--tmcp-gold);
+  margin-bottom: 0.35rem;
+}
+
+.episode-card .episode-subtitle {
+  display: block;
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+  color: var(--tmcp-gold);
+  text-align: left;
+  margin: 0;
+}
