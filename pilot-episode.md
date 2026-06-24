@@ -1,16 +1,16 @@
 ---
 layout: default
-title: The Godfather
+title: Pilot Episode
 ---
 
 <img src="../tmcp-header.png" alt="The Minimum Commitment" class="site-header">
 
 <div class="transcript-intro">
 
-<h1>The Godfather</h1>
+<h1>Pilot Episode</h1>
 
 <p class="episode-subtitle">
-Power, Silence, and the Death of Michael Corleone
+Why Film Theory Matters
 </p>
 
 </div>
@@ -31,11 +31,11 @@ Episode audio coming soon.
 
 <p>
 You’re listening to The Minimum Commitment: Film Theory in Small Doses.
-One idea. One film. A few minutes that just might reframe what you thought you knew.
+A podcast for people who love movies,  think too hard about them,  and don’t have an hour to spare. 
 </p>
 
 <p>
-I’m Donn Lawler—film scholar, sound mixer, and someone who never once asked to be part of the family business.
+I’m Donn Lawler—film scholar, sound mixer, and someone who believes film theory belongs in everyday conversation. 
 </p>
 
 <p>
@@ -43,60 +43,46 @@ Let’s get into it.
 </p>
 
 <p>
-The Godfather isn’t about the mob.
-Not really.
-It’s about power. How it’s inherited.
-How it’s corrupted. How it erases the person you used to be.
-Michael Corleone begins as the outsider.
-A war hero. A clean-cut son who wants nothing to do with organized crime.
-And that’s exactly why his father believes he’s the one.
-Because in this world, purity is a resource.
-It gets traded.
-And eventually—it gets spent.
+This podcast is built around one idea:
+That big thoughts about movies  don’t need to come in lecture form. 
 </p>
 
 <p>
-The moment it turns? The hospital scene.
-Michael sees his father unguarded, helpless, about to be killed.
-And instinct kicks in.
-He protects him. Lies. Takes control.
-There’s no going back.
-But it’s not a sudden fall. It’s a slow freeze.
-He doesn’t become a monster overnight.
-He gets quiet. More deliberate.
-He thinks more. And feels less.
-And by the time we get to the baptism scene?
-He’s a ghost behind those eyes.
+Each episode runs five to ten minutes.
+No deep dives.  No tangents.  Just one focused idea at a time. 
 </p>
 
 <p>
-What makes The Godfather powerful isn’t just what’s said.
-It’s what isn’t.
-Michael doesn’t explain. He doesn’t justify.
-He doesn’t confess. He just decides. He acts.
-And the people around him follow—or they disappear.
-In the end, it’s not rage that defines him.
-It’s silence.
-That final shot of the door closing on Kay?
-That’s the story. You’re either in the family…
-or you’re out.
+It might be a film theory term.
+It might be a single movie.
+It might be a question that won’t let go. 
 </p>
 
 <p>
-The real twist of The Godfather is that Michael wins.
-He protects the family. He becomes the Don.
-He does everything he was supposed to do.
-And it kills the part of him that made him human.
-That’s why it’s tragic. Because it worked.
+For example:
+Why do we root for violent men in gangster films?
+What makes dystopian movies feel more like predictions than fiction?
+What does The Matrix say about identity, and why does it still matter? 
 </p>
 
 <p>
-The Godfather isn’t about violence.
-It’s about transformation.
-Power isn’t loud.
-It’s quiet. Cold. Strategic.
-And Michael? He didn’t want it.
-But he wore it better than anyone.
+These aren’t full essays.
+They’re short reflections. 
+Designed to give you a clearer lens.
+Or shift your angle, just a bit. 
+
+Because sometimes, one scene  one line  one moment  is enough to change how you see everything else. 
+
+That’s the kind of thought we’re chasing here. 
+</p>
+
+<p>
+This is The Minimum Commitment.
+But the meaning?  That part’s up to you.
+
+Thanks for listening.
+New episodes drop weekly.
+Follow, subscribe,  and keep watching closely. 
 </p>
 
 <p>
