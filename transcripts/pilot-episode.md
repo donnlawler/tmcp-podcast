@@ -116,11 +116,13 @@ See you next time.
 
 <div class="episode-nav">
 
-<a href="/tmcp-podcast/transcripts/s1e00" class="button">← Pilot Episode</a>
+<a href="/tmcp-podcast/episodes#organized-crime" class="button">
+Back to Episodes
+</a>
 
-<a href="/tmcp-podcast/episodes#organized-crime" class="button">Back to Episodes</a>
-
-<a href="/tmcp-podcast/transcripts/s1e02" class="button">Goodfellas →</a>
+<a href="/tmcp-podcast/transcripts/the-godfather" class="button">
+The Godfather →
+</a>
 
 </div>
 
