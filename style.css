@@ -345,8 +345,12 @@ img {
 }
 
 .transcript-intro h1 {
-  font-family: "Bodoni", sans-serif;
-  font-weight: 300;
+  font-family: "Libre Bodoni", "Bodoni 72", "Bodoni MT", Didot, serif;
+  font-weight: 400;
+  font-size: 2.8rem;
+  letter-spacing: 0.02em;
+  color: var(--tmcp-gold);
+  margin-bottom: 0.5rem;
 }
 
 .transcript-intro h1 {
