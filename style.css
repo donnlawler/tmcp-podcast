@@ -345,6 +345,10 @@ img {
 }
 
 .transcript-intro h1 {
+  font-weight: 400;
+}
+
+.transcript-intro h1 {
   margin-bottom: 0.5rem;
 }
 
