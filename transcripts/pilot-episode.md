@@ -24,7 +24,7 @@ Why Film Theory Matters
   style="border-radius:12px"
   src="https://open.spotify.com/embed/episode/0WomEocG9gzudnvgck0E35?utm_source=generator&theme=0&si=cd399084b174426f"
   width="100%"
-  height="352"
+  height="232"
   frameborder="0"
   allowfullscreen=""
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
