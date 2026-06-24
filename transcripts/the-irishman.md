@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Irsishman
+title: The Irishman
 ---
 
 <img src="../tmcp-header.png" alt="The Minimum Commitment" class="site-header">
