@@ -30,12 +30,12 @@ title: Episodes
   <span class="episode-subtitle">Power, Silence, and the Death of Michael Corleone</span>
 </a>
 
-<a href="#" class="episode-card">
+<a href="/tmcp-podcast/transcripts/goodfellas" class="episode-card">
   <span class="episode-number">Episode 102: Goodfellas</span>
   <span class="episode-subtitle">The Performance of the Gangster</span>
 </a>
 
-<a href="#" class="episode-card">
+<a href="/tmcp-podcast/transcripts/the-irishman" class="episode-card">
   <span class="episode-number">Episode 103: The Irishman</span>
   <span class="episode-subtitle">Memory, Regret, and the Stories We Tell Ourselves</span>
 </a>
