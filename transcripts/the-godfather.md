@@ -14,14 +14,21 @@ Power, Silence, and the Death of Michael Corleone
 </p>
 
 </div>
-
 <div class="listen-box">
 
 <h2>Listen</h2>
 
-<p>
-Episode audio coming soon.
-</p>
+<iframe
+  data-testid="embed-iframe"
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/episode/1mE6NTvWW1F5TTZNM5wVfn?utm_source=generator&theme=0&si=cd399084b174426f"
+  width="100%"
+  height="152"
+  frameborder="0"
+  allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
 
 </div>
 
