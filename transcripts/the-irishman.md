@@ -7,7 +7,7 @@ title: The Irishman
 
 <div class="transcript-intro">
 
-<h1>The Irsishman</h1>
+<h1>The Irishman</h1>
 
 <p class="episode-subtitle">
 The Streaming Gamble
