@@ -401,12 +401,7 @@ img {
 .episode-card {
   display: block;
   max-width: 800px;
-  margin: 0 auto 1.5rem auto;
-  padding: 1.25rem 1.5rem;
-  border-left: 3px solid var(--tmcp-red);
-  text-decoration: none;
-  background: transparent;
-  transition: 0.2s ease;
+  margin-bottom: 1.5rem;
 }
 
 .episode-card:hover {
