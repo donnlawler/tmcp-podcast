@@ -448,3 +448,11 @@ img {
 .collection-home-button {
     margin-top: 2rem;
 }
+
+.star-wars .episode-card {
+  border-left-color: var(--star-wars);
+}
+
+.star-wars .episode-card:hover {
+  background: rgba(46, 111, 115, 0.18);
+}
