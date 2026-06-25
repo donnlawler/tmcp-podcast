@@ -32,7 +32,7 @@ title: Episodes
 
 <a href="/tmcp-podcast/transcripts/goodfellas" class="episode-card">
   <span class="episode-number">Episode 102: Goodfellas</span>
-  <span class="episode-subtitle">The Performance of the Gangster</span>
+  <span class="episode-subtitle">The Performance of Power</span>
 </a>
 
 <a href="/tmcp-podcast/transcripts/the-irishman" class="episode-card">
