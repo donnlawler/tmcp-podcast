@@ -45,7 +45,7 @@ title: Episodes
   <span class="episode-subtitle">The American Dream Consumed by Excess</span>
 </a>
 
-<a href="#" class="episode-card">
+<a href="/tmcp-podcast/transcripts/donnie-brasco" class="episode-card">
   <span class="episode-number">Episode 105: Donnie Brasco</span>
   <span class="episode-subtitle">Identity Between Two Worlds</span>
 </a>
