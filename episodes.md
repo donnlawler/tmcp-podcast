@@ -57,7 +57,7 @@ title: Episodes
 <!-- END ORGANIZED CRIME ARC -->
 <!-- START STAR WARS ARC -->
 
-<section id="star-wars" class="episode-collection">
+<section id="star-wars" class="episode-collection star-wars">
 
 <div class="collection-intro">
 
