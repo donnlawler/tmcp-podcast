@@ -31,7 +31,7 @@ Curated collections examining how films create meaning through image, sound, sto
   <span class="arc-title">Blood and Loyalty</span>
 </a>
 
-<a href="/tmcp-podcast/episodes#star-wars" class="arc-package">
+<a href="/tmcp-podcast/episodes#star-wars" class="arc-package star-wars-card">
   <span class="arc-theme">Star Wars</span>
   <span class="arc-title">The Skywalker Saga</span>
 </a>
