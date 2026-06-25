@@ -57,6 +57,20 @@ title: Episodes
 <!-- END ORGANIZED CRIME ARC -->
 <!-- START STAR WARS ARC -->
 
+<!--
+Star Wars transcript naming convention:
+
+episode-i
+episode-ii
+episode-iii
+episode-iv
+episode-v
+episode-vi
+episode-vii
+episode-viii
+episode-ix
+-->
+
 <section id="star-wars" class="episode-collection star-wars">
 
 <div class="collection-intro">
