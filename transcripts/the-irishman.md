@@ -10,7 +10,7 @@ title: The Irishman
 <h1>The Irishman</h1>
 
 <p class="episode-subtitle">
-The Streaming Gamble
+Memory, Regret, and the Stories We Tell Ourselves
 </p>
 
 </div>
