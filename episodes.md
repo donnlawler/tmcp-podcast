@@ -72,47 +72,47 @@ title: Episodes
 </div>
 
 <div class="episode-list">
-  <a href="/tmcp-podcast/transcripts/episode-I" class="episode-card">
+  <a href="/tmcp-podcast/transcripts/episode-i" class="episode-card">
   <span class="episode-number">Episode 106: Episode I: The Phantom Menace</span>
   <span class="episode-subtitle">Empire in Disguise</span>
 </a>
   
-<a href="/tmcp-podcast/transcripts/episode-II" class="episode-card">
+<a href="/tmcp-podcast/transcripts/episode-ii" class="episode-card">
   <span class="episode-number">Episode 107: Episode II: Attack of the Clones</span>
   <span class="episode-subtitle">Manufactured Wars and Manufactured Consent</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/episode-III" class="episode-card">
+<a href="/tmcp-podcast/transcripts/episode-iii" class="episode-card">
   <span class="episode-number">Episode 108: Episode III: Revenge of the Sith</span>
   <span class="episode-subtitle">The Mind of a Monster</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/episode-IV" class="episode-card">
+<a href="/tmcp-podcast/transcripts/episode-iv" class="episode-card">
   <span class="episode-number">Episode 109: Episode IV: A New Hope</span>
   <span class="episode-subtitle">The Journey Begins</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/episode-V" class="episode-card">
+<a href="/tmcp-podcast/transcripts/episode-v" class="episode-card">
   <span class="episode-number">Episode 110: Episode V: The Empire Strikes Back</span>
   <span class="episode-subtitle">Vision in the Shadows</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/episode-VI" class="episode-card">
+<a href="/tmcp-podcast/transcripts/episode-vi" class="episode-card">
   <span class="episode-number">Episode 111: Episode VI: Return of the Jedi</span>
   <span class="episode-subtitle">Where Resolution Meets Reflection</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/episode-VII" class="episode-card">
+<a href="/tmcp-podcast/transcripts/episode-vii" class="episode-card">
   <span class="episode-number">Episode 112: Episode VII: The Force Awakens</span>
   <span class="episode-subtitle">INSERT SUBTITLE HERE</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/episode-VIII" class="episode-card">
+<a href="/tmcp-podcast/transcripts/episode-viii" class="episode-card">
   <span class="episode-number">Episode 113: Episode VIII: The Last Jedi</span>
   <span class="episode-subtitle">INSERT SUBTITLE HERE</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/episode-IX" class="episode-card">
+<a href="/tmcp-podcast/transcripts/episode-ix" class="episode-card">
   <span class="episode-number">Episode 114: Episode IX: The Rise of Skywalker</span>
   <span class="episode-subtitle">INSERT SUBTITLE HERE</span>
 </a>
