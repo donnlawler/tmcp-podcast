@@ -13,8 +13,6 @@ title: "Star Wars Episode I: The Phantom Menace"
 Empire in Disguise
 </p>
 
-</div>
-
 <div class="listen-box">
 
 <h2>Listen</h2>
