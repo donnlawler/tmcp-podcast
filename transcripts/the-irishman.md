@@ -19,12 +19,19 @@ The Streaming Gamble
 
 <h2>Listen</h2>
 
-<p>
-Episode audio coming soon.
-</p>
+<iframe
+  data-testid="embed-iframe"
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/episode/3ACE18t50sNylkig7Tqiu1?utm_source=generator&theme=0&si=cd399084b174426f"
+  width="100%"
+  height="152"
+  frameborder="0"
+  allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
 
 </div>
-
 <h2 class="transcript-heading">Transcript</h2>
 
 <div class="transcript-content">
