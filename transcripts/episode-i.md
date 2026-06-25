@@ -186,7 +186,7 @@ See you next time.
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/episode-1" class="button">
+<a href="/tmcp-podcast/transcripts/episode-ii" class="button">
 Star Wars Ep. II →
 </a>
 
