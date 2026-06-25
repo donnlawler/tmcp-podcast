@@ -170,16 +170,16 @@ See you next time.
 -->
 <div class="episode-nav">
 
-<a href="/tmcp-podcast/transcripts/goodfellas" class="button">
-← Goodfellas
+<a href="/tmcp-podcast/transcripts/the-irishman" class="button">
+← The Irishman
 </a>
 
 <a href="/tmcp-podcast/episodes#organized-crime" class="button">
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/scarface" class="button">
-Scarface →
+<a href="/tmcp-podcast/transcripts/donnie-brasco" class="button">
+Donnie Brasco →
 </a>
 
 </div>
