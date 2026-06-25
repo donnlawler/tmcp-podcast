@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Star Wars Episode I: The Phantom Menace
+title: "Star Wars Episode I: The Phantom Menace"
 ---
 
 <img src="../tmcp-header.png" alt="The Minimum Commitment" class="site-header">
