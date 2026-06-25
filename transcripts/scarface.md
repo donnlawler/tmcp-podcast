@@ -52,7 +52,7 @@ Let’s get into it.
 
 <p>
 When people think of Scarface, they remember the excess.
-The violence.  The wealth.  The chaos. 
+The violence.  The wealth.  The chaos. The mountains of cocaine.
 But Brian De Palma’s 1983 film—written by Oliver Stone—
 isn’t just a spectacle of crime and ego.
 It’s a test case for Genre Theory. 
