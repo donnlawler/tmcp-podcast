@@ -456,3 +456,8 @@ img {
 .star-wars .episode-card:hover {
   background: rgba(46, 111, 115, 0.18);
 }
+
+.star-wars .button:hover {
+  border-color: var(--star-wars);
+  color: var(--star-wars);
+}
