@@ -461,3 +461,8 @@ img {
   border-color: var(--star-wars);
   color: var(--star-wars);
 }
+
+.star-wars-card:hover {
+  border-color: var(--star-wars);
+  background: rgba(46, 111, 115, 0.18);
+}
