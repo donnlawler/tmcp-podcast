@@ -5,7 +5,7 @@ title: "Star Wars Episode I: The Phantom Menace"
 
 <img src="../tmcp-header.png" alt="The Minimum Commitment" class="site-header">
 
-<div class="transcript-intro">
+<div class="star-wars-page">
 
 <h1>Star Wars Episode I: The Phantom Menace</h1>
 
@@ -191,4 +191,3 @@ Star Wars Ep. II →
 </a>
 
 </div>
-
