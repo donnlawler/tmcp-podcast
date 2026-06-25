@@ -7,11 +7,15 @@ title: "Star Wars Episode I: The Phantom Menace"
 
 <div class="star-wars-page">
 
+<div class="transcript-intro">
+
 <h1>Star Wars Episode I: The Phantom Menace</h1>
 
 <p class="episode-subtitle">
 Empire in Disguise
 </p>
+
+</div>
 
 <div class="listen-box">
 
