@@ -51,7 +51,7 @@ Let’s get into it.
 
 <p>
 How deep do you go before the role becomes the truth?
-*Donnie Brasco*, directed by Mike Newell, tells the story of FBI agent Joe Pistone
+Donnie Brasco, directed by Mike Newell, tells the story of FBI agent Joe Pistone
 who goes undercover in the mafia under the name Donnie. 
 And the longer he stays, the more “Joe” starts to disappear. 
 This isn’t a film about betrayal.
@@ -75,7 +75,7 @@ He feels broken.
 
 <p>
 Film theory often treats performance as metaphor.
-But *Donnie Brasco* makes it literal. 
+But Donnie Brasco makes it literal. 
 Every scene is a negotiation.
 Every word is part of the act. 
 And over time, the act becomes instinct.
@@ -103,7 +103,7 @@ You just hope someone misses you when you’re gone.
 </p>
 
 <p>
-*Donnie Brasco* isn’t about crime.
+Donnie Brasco isn’t about crime.
 It’s about disappearance.
 Not into prison.  Not into death. 
 But into a version of yourself that you can’t walk back from. 
@@ -148,7 +148,7 @@ Back to Episodes
 </a>
 
 <a href="/tmcp-podcast/transcripts/episode-1" class="button">
-Star Wars Ep. 1 →
+Star Wars Ep. I →
 </a>
 
 </div>
