@@ -7,6 +7,8 @@ title: "Star Wars Episode II: Attack of the Clones"
 
 <div class="transcript-intro">
 
+<div class="star-wars-page">
+  
 <h1>Star Wars Episode II: Attack of the Clones</h1>
 
 <p class="episode-subtitle">
