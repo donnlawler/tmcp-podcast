@@ -13,8 +13,6 @@ title: "Star Wars Episode II: Attack of the Clones"
 Manufactured Wars and Manufactured Consent
 </p>
 
-</div>
-
 <div class="listen-box">
 
 <h2>Listen</h2>
