@@ -40,7 +40,7 @@ title: Episodes
   <span class="episode-subtitle">Memory, Regret, and the Stories We Tell Ourselves</span>
 </a>
 
-<a href="#" class="episode-card">
+<a href="/tmcp-podcast/transcripts/scarface" class="episode-card">
   <span class="episode-number">Episode 104: Scarface</span>
   <span class="episode-subtitle">The American Dream Consumed by Excess</span>
 </a>
