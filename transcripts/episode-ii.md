@@ -5,9 +5,9 @@ title: "Star Wars Episode II: Attack of the Clones"
 
 <img src="../tmcp-header.png" alt="The Minimum Commitment" class="site-header">
 
-<div class="transcript-intro">
-
 <div class="star-wars-page">
+  
+<div class="transcript-intro">
   
 <h1>Star Wars Episode II: Attack of the Clones</h1>
 
