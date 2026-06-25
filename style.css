@@ -471,3 +471,8 @@ img {
   border-color: var(--star-wars);
   color: var(--star-wars);
 }
+
+.star-wars-page .episode-nav .button:hover {
+  border-color: var(--star-wars);
+  color: var(--star-wars);
+}
