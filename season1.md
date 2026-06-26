@@ -79,54 +79,54 @@ Curated collections examining how films create meaning through image, sound, sto
 
 <div class="arc-grid">
 
-  <a href="#" class="arc-package">
-    <span class="arc-theme">Romantic Comedy</span>
-    <span class="arc-title">Love, Actually</span>
-  </a>
+<a href="#" class="arc-package">
+  <span class="arc-theme">Romantic Comedy</span>
+  <span class="arc-title">Love, Actually</span>
+</a>
+
+<a href="#" class="arc-package">
+  <span class="arc-theme">Athletics on Film</span>
+  <span class="arc-title">The Measure of Ourselves</span>
+</a>
+
+<a href="#" class="arc-package">
+  <span class="arc-theme">The Western</span>
+  <span class="arc-title">The Decline of the Western Myth</span>
+</a>
+
+<a href="#" class="arc-package">
+  <span class="arc-theme">Criminal Professionals</span>
+  <span class="arc-title">The Discipline of Crime</span>
+</a>
+
+<a href="#" class="arc-package">
+  <span class="arc-theme">The Solitary Character</span>
+  <span class="arc-title">No One Else Is Coming</span>
+</a>
+
+<a href="#" class="arc-package">
+  <span class="arc-theme">Science Fiction</span>
+  <span class="arc-title">Coming Soon</span>
+</a>
+
+<a href="#" class="arc-package">
+  <span class="arc-theme">Neo Noir</span>
+  <span class="arc-title">Coming Soon</span>
+</a>
+
+<a href="#" class="arc-package">
+  <span class="arc-theme">Horror</span>
+  <span class="arc-title">Coming Soon</span>
+</a>
 
   <a href="#" class="arc-package">
-    <span class="arc-theme">Athletics on Film</span>
-    <span class="arc-title">The Measure of Ourselves</span>
-  </a>
+  <span class="arc-theme">The Lord of the Rings</span>
+  <span class="arc-title">Coming Soon</span>
+</a>
 
   <a href="#" class="arc-package">
-    <span class="arc-theme">The Western</span>
-    <span class="arc-title">The Decline of the Western Myth</span>
-  </a>
-
-  <a href="#" class="arc-package">
-    <span class="arc-theme">Criminal Professionals</span>
-    <span class="arc-title">The Discipline of Crime</span>
-  </a>
-
-  <a href="#" class="arc-package">
-    <span class="arc-theme">The Solitary Character</span>
-    <span class="arc-title">No One Else Is Coming</span>
-  </a>
-
-  <a href="#" class="arc-package">
-    <span class="arc-theme">Science Fiction</span>
-    <span class="arc-title">Coming Soon</span>
-  </a>
-
-  <a href="#" class="arc-package">
-    <span class="arc-theme">Neo Noir</span>
-    <span class="arc-title">Coming Soon</span>
-  </a>
-
-  <a href="#" class="arc-package">
-    <span class="arc-theme">Horror</span>
-    <span class="arc-title">Coming Soon</span>
-  </a>
-
-    <a href="#" class="arc-package">
-    <span class="arc-theme">The Lord of the Rings</span>
-    <span class="arc-title">Coming Soon</span>
-  </a>
-
-    <a href="#" class="arc-package">
-    <span class="arc-theme">Season 2 Sign Off</span>
-    <span class="arc-title">Coming Soon</span>
-  </a>
+  <span class="arc-theme">Season 2 Sign Off</span>
+  <span class="arc-title">Coming Soon</span>
+</a>
   
 </div>
