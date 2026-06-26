@@ -36,32 +36,27 @@ Curated collections examining how films create meaning through image, sound, sto
   <span class="arc-title">The Skywalker Saga</span>
 </a>
 
-<a href="/tmcp-podcast/episodes#john-wick" class="arc-package">
+<a href="/tmcp-podcast/episodes#john-wick" class="arc-package john-wick-card">
   <span class="arc-theme">John Wick</span>
   <span class="arc-title">There Is No Exit</span>
 </a>
 
-<a href="/tmcp-podcast/episodes#film-noir" class="arc-package">
+<a href="/tmcp-podcast/episodes#film-noir" class="arc-package film-noir-card">
   <span class="arc-theme">Film Noir</span>
   <span class="arc-title">Nobody Gets Away Clean</span>
 </a>
 
-<a href="/tmcp-podcast/episodes#science-fiction" class="arc-package">
+<a href="/tmcp-podcast/episodes#science-fiction" class="arc-package science-fiction-card">
   <span class="arc-theme">Science Fiction</span>
   <span class="arc-title">Future. Memory. Meaning.</span>
 </a>
 
-<a href="/tmcp-podcast/episodes#western" class="arc-package">
-  <span class="arc-theme">Western</span>
-  <span class="arc-title">The Decline of the Western Myth</span>
-</a>
-
-<a href="/tmcp-podcast/episodes#horror" class="arc-package">
+<a href="/tmcp-podcast/episodes#horror" class="arc-package horror-card">
   <span class="arc-theme">Horror</span>
   <span class="arc-title">There Is a Reason You're Afraid</span>
 </a>
 
-<a href="/tmcp-podcast/episodes#fantasy" class="arc-package">
+<a href="/tmcp-podcast/episodes#fantasy" class="arc-package fantasy-card">
   <span class="arc-theme">Fantasy</span>
   <span class="arc-title">The Quest Is Only Part of the Story</span>
 </a>
