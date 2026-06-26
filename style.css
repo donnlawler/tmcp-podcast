@@ -496,46 +496,31 @@ img {
 }
 
 /* John Wick */
-.john-wick-card {
-  border-color: #5A6542;
-}
-
 .john-wick-card:hover {
+  border-color: #5A6542;
   background: rgba(90, 101, 66, 0.15);
 }
 
 /* Film Noir */
-.film-noir-card {
-  border-color: #5E6163;
-}
-
 .film-noir-card:hover {
+  border-color: #5E6163;
   background: rgba(94, 97, 99, 0.15);
 }
 
 /* Science Fiction */
-.science-fiction-card {
-  border-color: #3B82F6;
-}
-
 .science-fiction-card:hover {
+  border-color: #3B82F6;
   background: rgba(59, 130, 246, 0.15);
 }
 
 /* Horror */
-.horror-card {
-  border-color: #7A1212;
-}
-
 .horror-card:hover {
+  border-color: #7A1212;
   background: rgba(122, 18, 18, 0.15);
 }
 
 /* Fantasy */
-.fantasy-card {
-  border-color: #2F5D3A;
-}
-
 .fantasy-card:hover {
+  border-color: #2F5D3A;
   background: rgba(47, 93, 58, 0.15);
 }
