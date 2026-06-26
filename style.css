@@ -478,20 +478,14 @@ img {
    ===================================================== */
 
 /* Organized Crime */
-.organized-crime-card {
-  border-color: #722622;
-}
-
 .organized-crime-card:hover {
+  border-color: #722622;
   background: rgba(114, 38, 34, 0.15);
 }
 
 /* Star Wars */
-.star-wars-card {
-  border-color: #2E6F73;
-}
-
 .star-wars-card:hover {
+  border-color: #2E6F73;
   background: rgba(46, 111, 115, 0.15);
 }
 
