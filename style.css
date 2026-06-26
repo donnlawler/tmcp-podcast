@@ -491,7 +491,7 @@ img {
 
 /* John Wick */
 .john-wick-card:hover {
-  border-color: #56F038;
+  border-color: #5A6542;
   background: rgba(90, 101, 66, 0.15);
 }
 
@@ -509,7 +509,7 @@ img {
 
 /* Horror */
 .horror-card:hover {
-  border-color: #FF0000;
+  border-color: #7A1212;
   background: rgba(122, 18, 18, 0.15);
 }
 
