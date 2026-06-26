@@ -480,41 +480,41 @@ img {
 /* Organized Crime */
 .organized-crime-card:hover {
   border-color: #722622;
-  background: rgba(114, 38, 34, 0.15);
+  background: rgba(114, 38, 34, 0.25);
 }
 
 /* Star Wars */
 .star-wars-card:hover {
   border-color: #2E6F73;
-  background: rgba(46, 111, 115, 0.15);
+  background: rgba(46, 111, 115, 0.25);
 }
 
 /* John Wick */
 .john-wick-card:hover {
   border-color: #25C324;
-  background: rgba(37, 195, 36, 0.15);
+  background: rgba(37, 195, 36, 0.25);
 }
 
 /* Film Noir */
 .film-noir-card:hover {
   border-color: #5E6163;
-  background: rgba(94, 97, 99, 0.15);
+  background: rgba(94, 97, 99, 0.25);
 }
 
 /* Science Fiction */
 .science-fiction-card:hover {
   border-color: #3B82F6;
-  background: rgba(59, 130, 246, 0.15);
+  background: rgba(59, 130, 246, 0.25);
 }
 
 /* Horror */
 .horror-card:hover {
   border-color: #7A1212;
-  background: rgba(255, 0, 0, 0.15);
+  background: rgba(255, 0, 0, 0.25);
 }
 
 /* Fantasy */
 .fantasy-card:hover {
   border-color: #2F5D3A;
-  background: rgba(47, 93, 58, 0.15);
+  background: rgba(47, 93, 58, 0.25);
 }
