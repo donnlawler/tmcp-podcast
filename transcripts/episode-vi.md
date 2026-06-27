@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Star Wars Episode VI: Return of teh Jedi"
+title: "Star Wars Episode VI: Return of the Jedi"
 ---
 
 <img src="../tmcp-header.png" alt="The Minimum Commitment" class="site-header">
