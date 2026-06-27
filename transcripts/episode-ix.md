@@ -124,7 +124,7 @@ Maybe just the simulation of one.
 </p>
 
 <p>
-That’s your thought for the day — Minimum commitment, Maximum meaning.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning.
 </p>
 
 <p>
