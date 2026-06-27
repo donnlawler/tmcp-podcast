@@ -12,7 +12,7 @@ title: John Wick
 <h1>John Wick</h1>
 
 <p class="episode-subtitle">
-XXXXXXXXXXX
+The Trigger Was Never The Dog
 </p>
 
 </div>
