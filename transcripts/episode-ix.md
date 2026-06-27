@@ -172,7 +172,7 @@ And May The Force Be With You
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/john-wick" class="button">
+<a href="/tmcp-podcast/transcripts/jw-john-wick" class="button">
 John Wick →
 </a>
 
