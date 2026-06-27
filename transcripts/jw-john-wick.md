@@ -189,7 +189,7 @@ See you next time.
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/john-wick-cptr-2" class="button">
+<a href="/tmcp-podcast/transcripts/jw-john-wick-cptr-2" class="button">
 John Wick Chapter 2 →
 </a>
 
