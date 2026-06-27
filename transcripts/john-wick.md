@@ -150,7 +150,7 @@ And that’s what destroyed them.
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning.
 See you next time.
 </p>
 
