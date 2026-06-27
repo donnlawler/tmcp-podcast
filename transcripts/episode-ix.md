@@ -173,7 +173,7 @@ Back to Episodes
 </a>
 
 <a href="/tmcp-podcast/transcripts/john-wick" class="button">
-JOHN WICK →
+John Wick →
 </a>
 
 </div>
