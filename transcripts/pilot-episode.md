@@ -94,7 +94,7 @@ Follow, subscribe,  and keep watching closely.
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning.
 See you next time.
 </p>
 
