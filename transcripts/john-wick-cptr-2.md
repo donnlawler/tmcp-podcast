@@ -7,7 +7,7 @@ title: John Wick
 
 <div class="transcript-intro">
 
-<h1>John Wick: Chapter 2 2</h1>
+<h1>John Wick: Chapter 2</h1>
 
 <p class="episode-subtitle">
 XXXXXXXXXXX
