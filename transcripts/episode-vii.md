@@ -146,7 +146,7 @@ And why we’re still listening.
 </p>
 
 <p>
-That’s your thought for the day — Minimum commitment, Maximum meaning.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning.
 See you next time.
 </p>
 
