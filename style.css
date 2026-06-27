@@ -459,14 +459,19 @@ img {
 }
 
 .organized-crime .episode-card:hover {
-    background: rgba(114, 38, 34, 0.18);
+    background: rgba(114, 38, 34, 0.25);
 }
 
 .organized-crime .button:hover {
     border-color: var(--organized-crime);
     color: var(--organized-crime);
+  
 }
+.organized-crime-card:hover {
+    border-color: var(--organized-crime);
+    background: rgba(114, 38, 34, 0.25);
 
+}
 .organized-crime-page .button:hover {
     border-color: var(--organized-crime);
     color: var(--organized-crime);
@@ -484,7 +489,7 @@ img {
 }
 
 .star-wars .episode-card:hover {
-  background: rgba(46, 111, 115, 0.18);
+  background: rgba(46, 111, 115, 0.25);
 }
 
 .star-wars .button:hover {
@@ -494,7 +499,7 @@ img {
 
 .star-wars-card:hover {
   border-color: var(--star-wars);
-  background: rgba(46, 111, 115, 0.18);
+  background: rgba(46, 111, 115, 0.25);
 }
 
 .star-wars-page .button:hover {
@@ -522,6 +527,11 @@ img {
     color: var(--john-wick);
 }
 
+.john-wick-card:hover {
+    border-color: var(--john-wick);
+    background: rgba(255, 45, 136, 0.25);
+}
+
 .john-wick-page .button:hover {
     border-color: var(--john-wick);
     color: var(--john-wick);
@@ -539,12 +549,17 @@ img {
 }
 
 .film-noir .episode-card:hover {
-    background: rgba(94, 97, 99, 0.18);
+    background: rgba(94, 97, 99, 0.25);
 }
 
 .film-noir .button:hover {
     border-color: var(--film-noir);
     color: var(--film-noir);
+}
+
+.film-noir-card:hover {
+    border-color: var(--film-noir);
+    background: rgba(94, 97, 99, 0.25);
 }
 
 .film-noir-page .button:hover {
@@ -564,12 +579,17 @@ img {
 }
 
 .science-fiction .episode-card:hover {
-    background: rgba(59, 130, 246, 0.18);
+    background: rgba(59, 130, 246, 0.25);
 }
 
 .science-fiction .button:hover {
     border-color: var(--science-fiction);
     color: var(--science-fiction);
+}
+
+.science-fiction-card:hover {
+    border-color: var(--science-fiction);
+    background: rgba(59, 130, 246, 0.25);
 }
 
 .science-fiction-page .button:hover {
@@ -588,12 +608,17 @@ img {
 }
 
 .horror .episode-card:hover {
-    background: rgba(122, 18, 18, 0.18);
+    background: rgba(122, 18, 18, 0.25);
 }
 
 .horror .button:hover {
     border-color: var(--horror);
     color: var(--horror);
+}
+
+.horror-card:hover {
+    border-color: var(--horror);
+    background: rgba(122, 18, 18, 0.25);
 }
 
 .horror-page .button:hover {
@@ -612,12 +637,17 @@ img {
 }
 
 .fantasy .episode-card:hover {
-    background: rgba(47, 93, 58, 0.18);
+    background: rgba(47, 93, 58, 0.25);
 }
 
 .fantasy .button:hover {
     border-color: var(--fantasy);
     color: var(--fantasy);
+}
+
+.fantasy-card:hover {
+    border-color: var(--fantasy);
+    background: rgba(47, 93, 58, 0.25);
 }
 
 .fantasy-page .button:hover {
@@ -636,12 +666,17 @@ img {
 }
 
 .sign-off .episode-card:hover {
-    background: rgba(190, 183, 151, 0.18);
+    background: rgba(190, 183, 151, 0.25);
 }
 
 .sign-off .button:hover {
     border-color: var(--sign-off);
     color: var(--sign-off);
+}
+
+.sign-off-card:hover {
+    border-color: var(--sign-off);
+    background: rgba(190, 183, 151, 0.25);
 }
 
 .sign-off-page .button:hover {
