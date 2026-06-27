@@ -166,7 +166,7 @@ And fear always, inevitably leads to ruin.
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning.
 See you next time.
 </p>
 
