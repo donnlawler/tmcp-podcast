@@ -166,7 +166,7 @@ See you next time.
 -->
 <div class="episode-nav">
 
-<a href="/tmcp-podcast/transcripts/john-wick" class="button">
+<a href="/tmcp-podcast/transcripts/jw-john-wick" class="button">
 ← John Wick
 </a>
 
@@ -174,7 +174,7 @@ See you next time.
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/john-wick-parabellum" class="button">
+<a href="/tmcp-podcast/transcripts/jw-john-wick-parabellum" class="button">
 John Wick Parabellum →
 </a>
 
