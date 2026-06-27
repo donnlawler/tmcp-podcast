@@ -21,12 +21,12 @@ Curated collections examining how films create meaning through image, sound, sto
 
 <div class="arc-grid">
 
-<a href="/tmcp-podcast/episodes#pilot" class="arc-package">
+<a href="/tmcp-podcast/episodes#pilot" class="arc-package pilot-card">
   <span class="arc-theme">Pilot Episode</span>
   <span class="arc-title">Begin Here</span>
 </a>
 
-<a href="/tmcp-podcast/episodes#organized-crime" class="arc-package">
+<a href="/tmcp-podcast/episodes#organized-crime" class="arc-package organized-crime-card">
   <span class="arc-theme">Organized Crime</span>
   <span class="arc-title">Blood and Loyalty</span>
 </a>
@@ -61,7 +61,7 @@ Curated collections examining how films create meaning through image, sound, sto
   <span class="arc-title">The Quest Is Only Part of the Story</span>
 </a>
 
-<a href="/tmcp-podcast/episodes#season-one-signoff" class="arc-package">
+<a href="/tmcp-podcast/episodes#season-one-signoff" class="arc-package season-one-signoff-card">
   <span class="arc-theme">Season 1 Sign Off</span>
   <span class="arc-title">Until the Next Viewing</span>
 </a>
