@@ -107,7 +107,7 @@ But he wore it better than anyone.
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
+That’s your thought for the day — Minimum commitment, Maximum meaning.
 See you next time.
 </p>
 
