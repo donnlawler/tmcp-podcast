@@ -41,7 +41,7 @@ The Debt That Owns You
 
 <p>
 This is The Minimum Commitment: Film Theory in Small Doses.
-One film. One idea. One step deeper into the world you tried to leave. . 
+One film. One idea. One step deeper into the world you tried to leave.
 </p>
 
 <p>
@@ -56,8 +56,7 @@ Let’s get into it.
 <p>
 The first John Wick film ends with something like closure.
 He buries his weapons. He walks off with a dog.
-He’s wounded - but alive.
-Maybe done. 
+He’s wounded - but alive. Maybe done. 
 Then Chapter 2 opens and reminds us 
 how hard it is to stay clean in a world that traffics in blood. 
 The second film isn’t about grief.
@@ -134,7 +133,7 @@ Signed in trust. Redeemed in blood.
 Because in this world, freedom isn’t granted, it’s bought.
 Stripped down to ceremony. 
 He signed the contract to survive. But survival isn’t freedom.
-It’s servitude dressed in ritual, sealed in gold. .
+It’s servitude dressed in ritual, sealed in gold.
 </p>
 
 <p>
