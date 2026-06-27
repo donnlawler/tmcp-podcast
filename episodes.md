@@ -152,29 +152,29 @@ episode-ix
 </div>
 
 <div class="episode-list">
-  <a href="/tmcp-podcast/transcripts/john-wick" class="episode-card">
+  <a href="/tmcp-podcast/transcripts/jw-john-wick" class="episode-card">
   <span class="episode-number">Episode 107: John Wick</span>
-  <span class="episode-subtitle">XXXXXXXXXXXX</span>
+  <span class="episode-subtitle">The Trigger Was Never the Dog</span>
 </a>
   
-<a href="/tmcp-podcast/transcripts/john-wick-cptr-2" class="episode-card">
+<a href="/tmcp-podcast/transcripts/jw-john-wick-cptr-2" class="episode-card">
   <span class="episode-number">Episode 108: John Wick: Chapter 2</span>
-  <span class="episode-subtitle">XXXXXXXXXXXX</span>
+  <span class="episode-subtitle">The Debt That Owns You</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/john-wick-parabellum" class="episode-card">
+<a href="/tmcp-podcast/transcripts/jw-john-wick-parabellum" class="episode-card">
   <span class="episode-number">Episode 109: John Wick: Chapter 3 - Parabellum</span>
-  <span class="episode-subtitle">XXXXXXXXXX</span>
+  <span class="episode-subtitle">Becoming the Ghost</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/john-wick-cptr-4" class="episode-card">
+<a href="/tmcp-podcast/transcripts/jw-john-wick-cptr-4" class="episode-card">
   <span class="episode-number">Episode 110: John Wick: Chapter 4</span>
-  <span class="episode-subtitle">XXXXXXXXXX</span>
+  <span class="episode-subtitle">The Long Fall Up</span>
 </a>
 
-<a href="/tmcp-podcast/transcripts/ballerina" class="episode-card">
+<a href="/tmcp-podcast/transcripts/jw-ballerina" class="episode-card">
   <span class="episode-number">Episode 111: Ballerina</span>
-  <span class="episode-subtitle">XXXXXXXXXXX</span>
+  <span class="episode-subtitle">Violence in Color</span>
 </a>
 
 </div>
