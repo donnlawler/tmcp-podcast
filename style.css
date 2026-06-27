@@ -223,10 +223,12 @@ img {
   text-align: center;
 }
 
+/*
 .arc-package:hover {
   background: rgba(114, 38, 34, 0.18);
   border-color: var(--tmcp-red);
 }
+*/
 
 .arc-theme {
   display: block;
@@ -477,6 +479,12 @@ img {
    ARC COLORS
    ===================================================== */
 
+/* Pilot Episode*/
+.pilot-card:hover {
+  border-color: var(--tmcp-gold);
+  background: rgba(190, 183, 151, 0.25);
+}
+
 /* Organized Crime */
 .organized-crime-card:hover {
   border-color: #722622;
@@ -517,4 +525,10 @@ img {
 .fantasy-card:hover {
   border-color: #2F5D3A;
   background: rgba(47, 93, 58, 0.25);
+}
+
+/* Season Sign Off*/
+.season-one-signoff-card:hover {
+  border-color: var(--tmcp-gold);
+  background: rgba(190, 183, 151, 0.25);
 }
