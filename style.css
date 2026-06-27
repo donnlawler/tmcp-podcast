@@ -505,8 +505,8 @@ img {
 
 /* Film Noir */
 .film-noir-card:hover {
-  border-color: #5E6163;
-  background: rgba(94, 97, 99, 0.25);
+  border-color: #EBEBEB;
+  background: rgba(235, 235, 235, 0.25);
 }
 
 /* Science Fiction */
