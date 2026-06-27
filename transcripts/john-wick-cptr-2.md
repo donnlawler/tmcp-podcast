@@ -12,7 +12,7 @@ title: John Wick
 <h1>John Wick: Chapter 2</h1>
 
 <p class="episode-subtitle">
-XXXXXXXXXXX
+The Debt That Owns You
 </p>
 
 </div>
