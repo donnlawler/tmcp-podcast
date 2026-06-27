@@ -3,6 +3,7 @@
   --tmcp-gold: #BEB797;
   --tmcp-red: #722622;
   --star-wars: #2E6F73;
+  --john-wick: #FF2D88;
 }
 
 body {
@@ -475,6 +476,28 @@ img {
   color: var(--star-wars);
 }
 
+.john-wick .episode-card {
+    border-left-color: var(--john-wick);
+}
+
+.john-wick .episode-card:hover {
+    background: rgba(255, 45, 136, 0.18);
+}
+
+.john-wick .button:hover {
+    border-color: var(--john-wick);
+    color: var(--john-wick);
+}
+
+.john-wick-page .button:hover {
+    border-color: var(--john-wick);
+    color: var(--john-wick);
+}
+
+.john-wick-page .episode-nav .button:hover {
+    border-color: var(--john-wick);
+    color: var(--john-wick);
+}
 /* =====================================================
    ARC COLORS
    ===================================================== */
