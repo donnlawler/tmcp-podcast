@@ -118,17 +118,17 @@ episode-ix
 
 <a href="/tmcp-podcast/transcripts/episode-vii" class="episode-card">
   <span class="episode-number">Episode 112: Episode VII: The Force Awakens</span>
-  <span class="episode-subtitle">INSERT SUBTITLE HERE</span>
+  <span class="episode-subtitle">Echoes in the Frame</span>
 </a>
 
 <a href="/tmcp-podcast/transcripts/episode-viii" class="episode-card">
   <span class="episode-number">Episode 113: Episode VIII: The Last Jedi</span>
-  <span class="episode-subtitle">INSERT SUBTITLE HERE</span>
+  <span class="episode-subtitle">Breaking the Pattern</span>
 </a>
 
 <a href="/tmcp-podcast/transcripts/episode-ix" class="episode-card">
   <span class="episode-number">Episode 114: Episode IX: The Rise of Skywalker</span>
-  <span class="episode-subtitle">INSERT SUBTITLE HERE</span>
+  <span class="episode-subtitle">The Spectacle That Ate the Myth</span>
 </a>
 </div>
 
