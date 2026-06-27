@@ -172,7 +172,7 @@ See you next time.
 -->
 <div class="episode-nav">
 
-<a href="/tmcp-podcast/transcripts/john-wick-cptr-4" class="button">
+<a href="/tmcp-podcast/transcripts/jw-john-wick-cptr-4" class="button">
 ← John Wick Chapter 4
 </a>
 
@@ -180,7 +180,7 @@ See you next time.
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/double-indemnity" class="button">
+<a href="/tmcp-podcast/transcripts/noir-double-indemnity" class="button">
 Double Indemnity →
 </a>
 
