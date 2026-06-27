@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Star Wars Episode VIII: The Last Jedis"
+title: "Star Wars Episode VIII: The Last Jedi"
 ---
 
 <img src="../tmcp-header.png" alt="The Minimum Commitment" class="site-header">
@@ -9,7 +9,7 @@ title: "Star Wars Episode VIII: The Last Jedis"
   
 <div class="transcript-intro">
   
-<h1>Star Wars Episode VII: The Force Awakens</h1>
+<h1>Star Wars Episode VIII: The Last Jedi</h1>
 
 <p class="episode-subtitle">
 XXXXXXXXXXXXXXXX
@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXX
 <iframe
   data-testid="embed-iframe"
   style="border-radius:12px"
-  src="https://open.spotify.com/embed/episode/2CE9uG2zmlLG0hg62voFRw?utm_source=generator&theme=0&si=cd399084b174426f"
+  src="https://open.spotify.com/embed/episode/6VSSRmd1i3NZF30stEOFZx?utm_source=generator&theme=0&si=cd399084b174426f"
   width="100%"
   height="152"
   frameborder="0"
@@ -192,16 +192,16 @@ See you next time.
 -->
 <div class="episode-nav">
 
-<a href="/tmcp-podcast/transcripts/episode-v" class="button">
-← Star Wars Ep. VI
+<a href="/tmcp-podcast/transcripts/episode-vii" class="button">
+← Star Wars Ep. VII
 </a>
 
 <a href="/tmcp-podcast/episodes#star-wars" class="button">
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/episode-vii" class="button">
-Star Wars Ep. VIII →
+<a href="/tmcp-podcast/transcripts/episode-ix" class="button">
+Star Wars Ep. IX →
 </a>
 
 </div>
