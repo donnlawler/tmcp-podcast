@@ -159,7 +159,7 @@ See you next time.
 -->
 <div class="episode-nav">
 
-<a href="/tmcp-podcast/transcripts/john-wick" class="button">
+<a href="/tmcp-podcast/transcripts/john-wick-cptr-2" class="button">
 ← John Wick Chapter 2
 </a>
 
@@ -167,7 +167,7 @@ See you next time.
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/john-wick-parabellum" class="button">
+<a href="/tmcp-podcast/transcripts/john-wick-cptr-4" class="button">
 John Wick Chapter 4 →
 </a>
 
