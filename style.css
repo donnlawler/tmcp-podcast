@@ -517,8 +517,8 @@ img {
 
 /* Horror */
 .horror-card:hover {
-  border-color: #7A1212;
-  background: rgba(255, 0, 0, 0.25);
+  border-color: #FF9300;
+  background: rgba(255, 147, 0, 0.25);
 }
 
 /* Fantasy */
