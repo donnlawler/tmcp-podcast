@@ -12,7 +12,7 @@ title: "Star Wars Episode IX: The Rise of Skywalker"
 <h1>Star Wars Episode IX: The Rise of Skywalker</h1>
 
 <p class="episode-subtitle">
-XXXXXXXXXXXXXXXX
+The Spectacle That Ate the Myth
 </p>
 
 <div class="listen-box">
@@ -38,12 +38,12 @@ XXXXXXXXXXXXXXXX
 
 <p>
 This is The Minimum Commitment: Film Theory in Small Doses.
-Where stories aren’t just told, they are shaped - through shadow, silence, and structure.  
+Where sometimes, the screen is so full there’s no room left for the truth.  
 </p>
 
 <p>
-I’m Donn Lawler—film scholar, Decibel romantic,
-and someone who sees more in a color shift than a plot twist. 
+I’m Donn Lawler—film scholar, sound obsessive,
+and someone who walked out of The Rise of Skywalker wondering if I’d just watched a movie… or a memory of a movie. 
 </p>
 
 <p>
@@ -51,120 +51,92 @@ Let’s get into it.
 </p>
 
 <p>
-Return of the Jedi is often seen as the conclusion,
-the fireworks, the redemption, the return of balance. 
-But just beneath the surface, it’s steadier. Quieter.
-A film shaped by hesitation and doubt. 
-Luke Skywalker stands like a Jedi, but doubt lingers in every step.
-The future feels uncertain. And the Force offers no clear path. 
-This is where resolution meets reflection.
-Where battles end but questions stay behind.
-Where the myth closes its arc, and finally asks:
-What did it cost to get here? 
-But beyond the story, what makes it work is how it’s designed.
-The emotion doesn’t stand on its own. It’s carried by structure.
-By the way scenes echo, collide, and rise together. 
+There’s no gentle way to say this.
+The Rise of Skywalker is spectacle.
+Loud. Shiny. Relentless. 
+It throws lightspeed skips, zombie emperors, Force healing, 
+and secret fleets at us so fast, you can barely breathe. 
+And that’s the point. 
+From a theoretical lens, this is pure Baudrillard, specifically, his concept of simulation. 
+Its the idea that media no longer represents reality.
+It replaces it. 
+In this film, nothing feels real.
+Not death. Not legacy. Not even finality. 
+Everything is affect. Everything is surface.
 </p>
 
 <p>
-The climax of the film is split across three locations:
-The throne room—where Luke, Vader, and the Emperor face their final test.
-The battle in space—where Lando leads the rebel fleet into all-out war.
-And the forest moon of Endor—where Han, Leia, Chewbacca and the droids fight to shut it all down. 
-Three battles. Three tones.
-And yet, they build together. 
-This is classic parallel editing.
-But here, it does more than keep things moving. 
-It creates emotional rhythm.
-A son’s doubt. A friend’s risk. A galaxy on the edge. 
-Each cut raises the stakes. Each return deepens the tension. 
-We don’t just watch the action, we feel the synchronization. 
+Palpatine returns.
+Not because it makes sense. But because he’s familiar. 
+He represents evil. He ties the saga together.
+He’s a shortcut to stakes. 
+This isn’t storytelling. It’s hyperreality.
+A copy of a copy, untethered from truth. 
+The same goes for Rey.
+She’s not just Rey. She’s a Palpatine. Then a Skywalker. 
+Because legacy is more powerful than character. 
+Identity becomes simulation, something retrofitted to provoke a reaction. 
 </p>
 
 <p>
-Let’s pause on a scene
-Palpatine’s throne room is cold with its gray walls, black floors, and deep shadows.
-No warmth. No comfort. Just control. 
-The room doesn’t just contain the scene, it defines it.
-Power sits above. Doubt stands below. 
-We see Palpatine’s inhuman, lifeless eyes.
-Vader’s polished black armor.
-And Luke, dressed in black, hidden in shadow—uncertain. 
-The Emperor doesn’t strike. He waits.
-Probes. Pushes. 
-He speaks in fragments. Each line is sharper than the last.
-Trying to break Luke open, to let rage do what fear could not. 
-Luke’s face implores his father to relent.
-A storm is breaking inside him and we’re watching it happen frame by frame. 
-One final push from Palpatine, then the sabers ignite!
-Green against red.
-It’s not just combat. It’s contrast. A visual argument:
-new life against inherited violence. 
-Vader and Luke fight. But it’s not about victory, it’s about control.
-About who Luke will become. 
-And when he refuses to strike again, when he throws down his weapon something shifts. 
-The Emperor attacks. And as Luke falls, his tunic opens at the chest.
-And beneath the black, a flash of white. 
-It’s small. Easy to miss. But it says everything. 
-He’s not here to win. He’s here to resist.
-And he’s no longer wearing the costume of the man he might have become.  
+The final shot of the film is Rey on Tatooine.
+Putting lightsabers in the ground. Taking a name. 
+It looks like closure. But what is it closing? 
+We don’t mourn Luke. We don’t question Leia.
+We don’t feel the weight of what came before. 
+It’s all image.
+Sunset. Silence. Iconography. 
+And when Rey says “Skywalker,” it feels like branding.
+Not transformation. 
+A name meant to echo, not to inspire. 
 </p>
 
 <p>
-This scene wouldn’t land the same without sound. 
-The lightsabers clash. Palpatine’s lightning roars. Luke screams.
-And underneath it all, Vader’s breathing shifts.
-Labored. Uneven. Cracking. 
-It’s the first sign that something inside him is breaking. 
-And then, as he lifts Palpatine, the Force theme rises,not as fanfare,
-but as feeling. 
-This is formalism through audio.
-John Williams doesn’t score the action, he scores the decision. 
-Sound sustains the moment.
-It’s not the fall of an enemy, it’s the rise of a choice. 
+This film doesn’t trust you to feel.
+It tells you when to feel. 
+Chewie dies. Except not really.
+Turns out there was another shuttle no one noticed - because, of course, there was. 
+C-3PO says goodbye. Except he doesn’t. 
+Rey and Kylo share a kiss. Except there’s no setup.
+No arc.
+Just… payoff. 
+This is what Baudrillard meant.
+Emotion becomes a simulation of itself.
+A loop of gestures. Without depth. 
 </p>
 
 <p>
-Let’s pause on one frame.
-Luke. His hands shackled, and standing between two shadows.
-Vader looms beside him—silent, unreadable.
-And above them both, the Emperor watches from his throne. 
-One flick of his finger, and the shackles fall.
-A gesture not of mercy but of control. 
-He dismisses the guards, not to protect Luke but to show how little threat he sees. 
-And Luke knows it. The performance is deliberate.
-The room, the posture, the silence, all carefully staged. 
-This isn’t just blocking. It’s a visual hierarchy of power. 
+And still the film works, for many. 
+Because spectacle does what it’s supposed to do:
+it overwhelms. It distracts.
+It gives you the feeling of meaning, without asking you to look closer. 
+The galaxy feels full. The music swells. The characters smile. 
+It’s comforting. But hollow. 
+Not because it lacks effort, but because it confuses acquaintance with resolution. 
 </p>
 
 <p>
-Form doesn’t just build moments, it connects them.
-It reflects where we’ve been, and signals where we’re going. 
-We see it in the tracking shots. The ships in formation.
-The shadows across polished floors.
-The way hands still reach, but for different reasons. 
-It’s A New Hope seen through age.
-Slower. More weathered.
-Like the film knows this story is ending and wants to leave it marked with intention. 
-Even the Death Star returns, but not as a symbol of power.
-It’s half-built. Exposed. Falling in on itself. 
-That’s not just design.
-That’s collapse visualized.
-The Empire isn’t destroyed. It’s rotting from within. 
+The Rise of Skywalker isn’t a bad film because of its visuals.
+It’s a spectacle. And spectacle can dazzle. 
+But when meaning collapses into affect, when legacy becomes branding, when every emotion is prepackaged and resold, What are we really watching? 
+Maybe not a story. Maybe not even an ending. 
+Maybe just the simulation of one.
 </p>
 
 <p>
-Return of the Jedi isn’t just a narrative ending.
-It’s formal closure. 
-The camera, the color, the rhythm, they guide your emotions, even if you don’t notice them. 
-That’s the beauty of Form. Form is the invisible hand.
-It guides emotion beneath awareness.
-We think we’re watching events, but it’s the architecture of feeling we follow. 
+That’s your thought for the day — Minimum commitment, Maximum meaning.
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
+We’ve reached the end of this arc.
+Nine films, countless frames, and one long conversation about what stories leave behind.
+If you made it all the way here—thank you.
+It means more than I can say.
+</p>
+
+<p>
 See you next time.
+And May The Force Be With You
 </p>
 
 </div>
