@@ -163,7 +163,7 @@ We think we’re watching events, but it’s the architecture of feeling we foll
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning.
 See you next time.
 </p>
 
