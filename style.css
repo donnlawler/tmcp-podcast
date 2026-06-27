@@ -83,12 +83,10 @@ hr {
   transition: 0.2s ease;
 }
 
-/* Removed:
 .button:hover {
   border-color: var(--tmcp-red);
   color: var(--tmcp-red);
 }
-*/
 
 /* GitHub Pages theme overrides */
 
