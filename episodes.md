@@ -163,12 +163,12 @@ episode-ix
 </a>
 
 <a href="/tmcp-podcast/transcripts/john-wick-parabellum" class="episode-card">
-  <span class="episode-number">Episode 109: John Wick: Chapter 3 Parabellum</span>
+  <span class="episode-number">Episode 109: John Wick: Chapter 3 - Parabellum</span>
   <span class="episode-subtitle">XXXXXXXXXX</span>
 </a>
 
 <a href="/tmcp-podcast/transcripts/john-wick-cptr-4" class="episode-card">
-  <span class="episode-number">Episode 110: John Wick: Chapter 4 4</span>
+  <span class="episode-number">Episode 110: John Wick: Chapter 4</span>
   <span class="episode-subtitle">XXXXXXXXXX</span>
 </a>
 
