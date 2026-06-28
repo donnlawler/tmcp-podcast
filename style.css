@@ -462,8 +462,9 @@ img {
 }
 
 .pilot .button:hover {
-    border-color: lime !important;
-    color: lime !important;
+  border-color: var(--pilot);
+  color: var(--pilot);
+  background: rgba(190, 183, 151, 0.25);
 }
 
 .pilot-page .button:hover {
@@ -694,8 +695,9 @@ img {
 }
 
 .sign-off .button:hover {
-    border-color: var(--sign-off);
-    color: var(--sign-off);
+  border-color: var(--sign-off);
+  color: var(--sign-off);
+  background: rgba(190, 183, 151, 0.25);
 }
 
 .sign-off-card:hover {
