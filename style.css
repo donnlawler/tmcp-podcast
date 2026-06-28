@@ -164,7 +164,7 @@ img {
 
 .episode-list {
   display: grid;
-  gap: 1rem;
+  gap: 0.5rem;
 }
 
 .episode-card {
