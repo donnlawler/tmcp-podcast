@@ -2,6 +2,7 @@
   --tmcp-black: #000000;
   --tmcp-gold: #BEB797;
   --tmcp-red: #722622;
+  --pilot: #BEB797;
   --organized-crime: #722622;
   --star-wars: #2E6F73;
   --john-wick: #FF2D88;
@@ -450,6 +451,31 @@ img {
 /* =====================================================
    ARC STYLING
    ===================================================== */
+/* Pilot */
+
+.pilot .episode-card {
+    border-left-color: var(--pilot);
+}
+
+.pilot .episode-card:hover {
+    background: rgba(190, 183, 151, 0.25);
+}
+
+.pilot .button:hover {
+    border-color: var(--pilot);
+    color: var(--pilot);
+}
+
+.pilot-page .button:hover {
+    border-color: var(--pilot);
+    color: var(--pilot);
+}
+
+.pilot-page .episode-nav .button:hover {
+    border-color: var(--pilot);
+    color: var(--pilot);
+}
+
 /* Organized Crime */
 
 .organized-crime .episode-card {
