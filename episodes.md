@@ -278,3 +278,101 @@ episode-ix
 
 <!-- END SCIENCE FICTION ARC -->
 <!-- START HORROR ARC -->
+
+<section id="horror" class="episode-collection horror">
+
+<div class="collection-intro">
+
+<h1>Horror</h1>
+
+<h2>Reasons You're Afraid of the Dark</h2>
+
+<div class="collection-home-button">
+<a href="/tmcp-podcast/season1" class="button">Back to Season 1</a>
+</div>
+
+</div>
+
+<div class="episode-list">
+  <a href="/tmcp-podcast/transcripts/horror-halloween" class="episode-card">
+  <span class="episode-number">Episode 131: Halloween</span>
+  <span class="episode-subtitle">A Knife in the Quiet</span>
+</a>
+  
+<a href="/tmcp-podcast/transcripts/horror-jaws" class="episode-card">
+  <span class="episode-number">Episode 132: Jaws</span>
+  <span class="episode-subtitle">What Lurks Beneath</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/horror-the-shining" class="episode-card">
+  <span class="episode-number">Episode 133: The Shining</span>
+  <span class="episode-subtitle">Madness in the Method</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/horror-the-exorcist" class="episode-card">
+  <span class="episode-number">Episode 134: The Exorcist</span>
+  <span class="episode-subtitle">A Crisis of Faith and Flesh</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/horror-hereditary" class="episode-card">
+  <span class="episode-number">Episode 135: Hereditary</span>
+  <span class="episode-subtitle">The Shape of Inheritance</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/horror-us" class="episode-card">
+  <span class="episode-number">Episode 136: Us</span>
+  <span class="episode-subtitle">The Horror in the Mirror</span>
+</a>
+
+</div>
+
+</section>
+
+<!-- END HORROR ARC -->
+<!-- START FANTASY ARC -->
+
+<section id="fantasy" class="episode-collection fantasy">
+
+<div class="collection-intro">
+
+<h1>Fantasy</h1>
+
+<h2>The Quest Is Only Part of the Story</h2>
+
+<div class="collection-home-button">
+<a href="/tmcp-podcast/season1" class="button">Back to Season 1</a>
+</div>
+
+</div>
+
+<div class="episode-list">
+  <a href="/tmcp-podcast/transcripts/fantasy-beowulf" class="episode-card">
+  <span class="episode-number">Episode 137: Beowulf</span>
+  <span class="episode-subtitle">The Lie That Made the Legend</span>
+</a>
+  
+<a href="/tmcp-podcast/transcripts/fantasy-excalibur" class="episode-card">
+  <span class="episode-number">Episode 138: Excalibur</span>
+  <span class="episode-subtitle">The Sword, The Spectacle, and the End of Magic</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/fantasy-green-knight" class="episode-card">
+  <span class="episode-number">Episode 139: The Green Knight</span>
+  <span class="episode-subtitle">Bravery, Performed</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/fantasy-dragonslayer" class="episode-card">
+  <span class="episode-number">Episode 140: Dragonslayer</span>
+  <span class="episode-subtitle">The Age of Fire, The Fall of Magic</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/fantasy-conan" class="episode-card">
+  <span class="episode-number">Episode 141: Conan The Barbarian</span>
+  <span class="episode-subtitle">Steel, Flesh and the Fire of Becoming</span>
+</a>
+
+</div>
+
+</section>
+
+<!-- END FANTASY ARC -->
