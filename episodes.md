@@ -395,8 +395,10 @@ episode-ix
 </section>
 
 <!-- END FANTASY ARC -->
+<!-- START SIGN OFF ARC -->
 
-<section id="sign-off" class="episode-collection sign-off">
+<section id="season-one-signoff"
+         class="episode-collection sign-off">
 
 <div class="collection-intro">
 
