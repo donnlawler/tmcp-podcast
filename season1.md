@@ -53,7 +53,7 @@ Curated collections examining how films create meaning through image, sound, sto
 
 <a href="/tmcp-podcast/episodes#horror" class="arc-package horror-card">
   <span class="arc-theme">Horror</span>
-  <span class="arc-title">There Is a Reason You're Afraid</span>
+  <span class="arc-title">Reasons You're Afraid of the Dark</span>
 </a>
 
 <a href="/tmcp-podcast/episodes#fantasy" class="arc-package fantasy-card">
