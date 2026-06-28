@@ -232,7 +232,7 @@ episode-ix
 <!-- START SCIENCE FICTION ARC -->
 
 
-<section id="science-fiction" class="episode-collection film-noir">
+<section id="science-fiction" class="episode-collection science-fiction">
 
 <div class="collection-intro">
 
