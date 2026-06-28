@@ -231,3 +231,50 @@ episode-ix
 <!-- END FILM NOIR ARC -->
 <!-- START SCIENCE FICTION ARC -->
 
+
+<section id="science-fiction" class="episode-collection film-noir">
+
+<div class="collection-intro">
+
+<h1>Science Fiction</h1>
+
+<h2>Future. Memory. Meaning.</h2>
+
+<div class="collection-home-button">
+<a href="/tmcp-podcast/season1" class="button">Back to Season 1</a>
+</div>
+
+</div>
+
+<div class="episode-list">
+  <a href="/tmcp-podcast/transcripts/sci-blade-runner" class="episode-card">
+  <span class="episode-number">Episode 126: Blade Runner</span>
+  <span class="episode-subtitle">Memories You Can’t Trust</span>
+</a>
+  
+<a href="/tmcp-podcast/transcripts/sci-logans-run" class="episode-card">
+  <span class="episode-number">Episode 127: Logan's Run</span>
+  <span class="episode-subtitle">Faith in the Countdown</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/sci-interstellar" class="episode-card">
+  <span class="episode-number">Episode 128: Interstellar</span>
+  <span class="episode-subtitle">Love in the Time of Gravity</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/sci-2001" class="episode-card">
+  <span class="episode-number">Episode 129: 2001: A Space Odyssey</span>
+  <span class="episode-subtitle">Becoming Beyond Reason</span>
+</a>
+
+<a href="/tmcp-podcast/transcripts/sci-arrival" class="episode-card">
+  <span class="episode-number">Episode 130: Arrival</span>
+  <span class="episode-subtitle">Language of Tomorrow</span>
+</a>
+
+</div>
+
+</section>
+
+<!-- END SCIENCE FICTION ARC -->
+<!-- START HORROR ARC -->
