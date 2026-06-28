@@ -462,8 +462,8 @@ img {
 }
 
 .pilot .button:hover {
-    border-color: var(--pilot);
-    color: var(--pilot);
+    border-color: lime !important;
+    color: lime !important;
 }
 
 .pilot-page .button:hover {
