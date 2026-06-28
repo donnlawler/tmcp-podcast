@@ -28,9 +28,7 @@ title: Episodes
 
 </div>
 
-</section>
-
-<section id="organized-crime" class="episode-collection">
+<section id="organized-crime" class="episode-collection organized-crime">
 
 <div class="collection-intro">
 
@@ -43,7 +41,9 @@ title: Episodes
 </div>
 
 </div>
-  
+
+<div class="episode-list">
+
 <a href="/tmcp-podcast/transcripts/the-godfather" class="episode-card">
   <span class="episode-number">Episode 101: The Godfather</span>
   <span class="episode-subtitle">Power, Silence, and the Death of Michael Corleone</span>
@@ -71,6 +71,7 @@ title: Episodes
 
 </div>
 
+</section>
 </section>
 
 <!-- END ORGANIZED CRIME ARC -->
