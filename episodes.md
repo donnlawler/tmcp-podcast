@@ -5,6 +5,31 @@ title: Episodes
 
 <img src="./tmcp-header.png" alt="The Minimum Commitment" class="site-header">
 
+<section id="pilot" class="episode-collection pilot">
+
+<div class="collection-intro">
+
+<h1>Pilot Episode</h1>
+
+<h2>Begin Here</h2>
+
+<div class="collection-home-button">
+<a href="/tmcp-podcast/season1" class="button">Back to Season 1</a>
+</div>
+
+</div>
+
+<div class="episode-list">
+
+<a href="/tmcp-podcast/transcripts/pilot-episode" class="episode-card">
+  <span class="episode-number">Episode 0: Pilot Episode</span>
+  <span class="episode-subtitle">Begin Here</span>
+</a>
+
+</div>
+
+</section>
+
 <section id="organized-crime" class="episode-collection">
 
 <div class="collection-intro">
@@ -18,12 +43,6 @@ title: Episodes
 </div>
 
 </div>
-
-<div class="episode-list">
-  <a href="/tmcp-podcast/transcripts/pilot-episode" class="episode-card">
-  <span class="episode-number">Episode 0: Pilot Episode</span>
-  <span class="episode-subtitle">Begin Here</span>
-</a>
   
 <a href="/tmcp-podcast/transcripts/the-godfather" class="episode-card">
   <span class="episode-number">Episode 101: The Godfather</span>
@@ -376,3 +395,28 @@ episode-ix
 </section>
 
 <!-- END FANTASY ARC -->
+
+<section id="sign-off" class="episode-collection sign-off">
+
+<div class="collection-intro">
+
+<h1>Season 1 Sign Off</h1>
+
+<h2>Until the Next Viewing</h2>
+
+<div class="collection-home-button">
+<a href="/tmcp-podcast/season1" class="button">Back to Season 1</a>
+</div>
+
+</div>
+
+<div class="episode-list">
+
+<a href="/tmcp-podcast/transcripts/season1-signoff" class="episode-card">
+  <span class="episode-number">Season 1 Sign Off</span>
+  <span class="episode-subtitle">Until the Next Viewing</span>
+</a>
+
+</div>
+
+</section>
