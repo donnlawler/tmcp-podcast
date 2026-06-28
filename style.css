@@ -170,7 +170,7 @@ img {
 .episode-card {
   display: block;
   border-left: 3px solid var(--tmcp-red);
-  padding: 1rem 1.25rem;
+  padding: 0.85rem 1rem;
   text-decoration: none;
 }
 
