@@ -40,7 +40,7 @@ Memories You Can’t Trust
 <div class="transcript-content">
 
 <p>
-Before we begin—
+Before we begin,
 a small note from me. 
 
 Science fiction has always been one of my favorite genres.
