@@ -9,10 +9,10 @@ title: Film Noir
   
 <div class="transcript-intro">
 
-<h1>Double Indemnity</h1>
+<h1>Blue Velvet</h1>
 
 <p class="episode-subtitle">
-No Way Out
+Darkness Found Me First
 </p>
 
 </div>
