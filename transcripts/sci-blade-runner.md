@@ -52,7 +52,7 @@ Some stories demand more. And even then, we barely scratch the surface of the wo
 So over the next five episodes, we will explore five films, each from a different corner of the galaxy. 
 Please enjoy them.
 And if something resonates with you, let me know in the comments.
-Not just for these episodes, but for any episode that stimulates your imagination
+Not just for these episodes, but for any episode that stimulates your imagination.
 I want to hear your thoughts. Your favorite films. Your memories of first contact with a world that changed you. 
 
 Now, on to Blade Runner. 
