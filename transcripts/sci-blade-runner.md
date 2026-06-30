@@ -5,7 +5,7 @@ title: Science Fiction
 
 <img src="../tmcp-header.png" alt="The Minimum Commitment" class="site-header">
 
-<div class="sci-fi-page">
+<div class="science-fiction-page">
   
 <div class="transcript-intro">
 
