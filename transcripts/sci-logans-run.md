@@ -1,5 +1,3 @@
-TRANSCRIPTS PAGE
-
 ---
 layout: default
 title: Science Fiction
@@ -42,6 +40,7 @@ Faith in the Countdown
 <div class="transcript-content">
 
 <p>
+XXXX CHANGE ALL OF THE SCRIPTED TRANSCRIPT TO MATCH LOGAN'S RUN XXXX
 This is The Minimum Commitment: Film Theory in Small Doses.
 Where honeysuckle can sometimes smell like murder.
 </p>
