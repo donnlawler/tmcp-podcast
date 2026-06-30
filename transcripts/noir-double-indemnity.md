@@ -96,7 +96,7 @@ Then the ignition catches, and they vanish into the night.
 But this isn’t just clever plotting. It’s fatalism in motion.
 From the moment they crossed that line, every turn of the train wheels was a countdown.
 They weren’t getting away with it.
-They were just riding the rails toward ruin
+They were just riding the rails toward ruin.
 </p>
 
 <p>
