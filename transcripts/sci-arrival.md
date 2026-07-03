@@ -58,8 +58,7 @@ A voice. Steady, soft, a little hesitant.
 </p>
 
 <p>
-“I used to think this was the beginning of your story.”
-“I’m not so sure I believe in beginnings and endings.”
+“I used to think this was the beginning of your story. I’m not so sure I believe in beginnings and endings.”
 </p>
 
 <p>
