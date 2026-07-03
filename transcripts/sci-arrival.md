@@ -67,7 +67,7 @@ And then — absence. The hospital. The stillness. The sorrow. A lifetime compre
 </p>
 
 <p>
-The story has already told us its shape: Not linear. But circular. Villeneuve folds that shape into everything. Rings on fingers. Gold earrings catching the light in a hospital room. The curve of a hallway that leads nowhere. This is a film about design. Repeated sounds. Repeated frames. Echoes folded back into the present. The recursive force of memory. Even before we meet the alien Heptapods, the film is already speaking in circles. Arrival is one of those rare sci-fi films that doesn’t care about saving the world. It’s about whether we can understand it. and what happens when we fail. 
+The story has already told us its shape: Not linear. But circular. Villeneuve folds that shape into everything. Rings on fingers. Gold earrings catching the light in a hospital room. The curve of a hallway that leads nowhere. This is a film about design. Repeated sounds. Repeated frames. Echoes folded back into the present. The recursive force of memory. Even before we meet the alien Heptapods, the film is already speaking in circles. Arrival is one of those rare sci-fi films that doesn’t care about saving the world. It’s about whether we can understand it. And what happens when we fail. 
 </p>
 
 <p>
