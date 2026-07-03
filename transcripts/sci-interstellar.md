@@ -63,7 +63,7 @@ Science is now propaganda, dismissed as myth. There’s a moment in the film whe
 <p>
 Our planet is out of answers. And time is no longer on our side.
 But what if time is only half the problem? What if the thing we’re losing isn’t food, or oxygen, or soil but faith?
-Not religious faith, but belief in each other. In connection. In something that moves through time, the way we move through space. Belief in something beyond the measurable. That’s the paradox of Interstellar: It’s an intimate study against the backdrop of the infinite universe. It spans galaxies, yet never loses sight of a single heartbeat. In the face of cosmic distances, black holes, and gravitational anomalies, Nolan dares to ask a question that science can’t quite answer: What if love is more than a feeling?\ What if love is a force?
+Not religious faith, but belief in each other. In connection. In something that moves through time, the way we move through space. Belief in something beyond the measurable. That’s the paradox of Interstellar: It’s an intimate study against the backdrop of the infinite universe. It spans galaxies, yet never loses sight of a single heartbeat. In the face of cosmic distances, black holes, and gravitational anomalies, Nolan dares to ask a question that science can’t quite answer: What if love is more than a feeling? What if love is a force?
 </p>
 
 <p>
@@ -92,7 +92,14 @@ It erodes belonging, leaving only distance where closeness once lived.
 </p>
 
 <p>
-One of the film’s most controversial ideas  is spoken by Amelia Brand, played with measured conviction by Anne Hathaway: “Love is the one thing that transcends time and space.” It sounds sentimental. Too soft for a film built on equations and orbital mechanics. But that line isn’t about ignoring science, it’s about recognizing that not everything that matters can be quantified. Love isn’t the opposite of reason. It’s why reason matters. Without it, equations are just numbers, missions are just flights, and survival is just breathing. Love is what makes those things worth the fight. Love is what carries Cooper forward. It doesn’t calculate trajectories, it gives him a reason to follow them. Across light-years and black holes, it’s not equations that keep him moving, but the pull of a promise he refuses to let die. And for Murph, love turns data into destiny. It transforms numbers on a page into the key that saves a world. In the end, it isn’t proof she needed. It was a reason to believe that solving the impossible mattered.
+One of the film’s most controversial ideas is spoken by Amelia Brand, played with measured conviction by Anne Hathaway:
+</p>
+
+<p> 
+“Love is the one thing that transcends time and space.” 
+</p>
+
+It sounds sentimental. Too soft for a film built on equations and orbital mechanics. But that line isn’t about ignoring science, it’s about recognizing that not everything that matters can be quantified. Love isn’t the opposite of reason. It’s why reason matters. Without it, equations are just numbers, missions are just flights, and survival is just breathing. Love is what makes those things worth the fight. Love is what carries Cooper forward. It doesn’t calculate trajectories, it gives him a reason to follow them. Across light-years and black holes, it’s not equations that keep him moving, but the pull of a promise he refuses to let die. And for Murph, love turns data into destiny. It transforms numbers on a page into the key that saves a world. In the end, it isn’t proof she needed. It was a reason to believe that solving the impossible mattered.
 </p>
 
 <p>
