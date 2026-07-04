@@ -40,15 +40,6 @@ A Knife in the Quiet
 <div class="transcript-content">
 
 <p>
-This Spooky Season, The Minimum Commitment slips into the shadows. We’re not chasing jump scares. We’re listening to what stays behind. In the silence. In the bloodline. In the place you thought was safe. Five films. One arc. And a fear that never left.
-</p>
-
-<p>
-Now…
-On to Halloween
-</p>
-
-<p>
 This is The Minimum Commitment: Film Theory in Small Doses. Where the quiet streets of suburbia can be the most dangerous places. And safety is just a story we tell ourselves.
 </p>
 
