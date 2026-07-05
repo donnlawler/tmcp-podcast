@@ -187,7 +187,7 @@ Brief description of the work and why it is relevant to the film, theory, or the
 <a href="/tmcp-podcast/transcripts/horror-jaws" class="button">
 ← Jaws
 
-<a href="/tmcp-podcast/episodes#sci-fi" class="button">
+<a href="/tmcp-podcast/episodes#horror" class="button">
 Back to Episodes
 </a>
 
