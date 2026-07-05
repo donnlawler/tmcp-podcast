@@ -1,5 +1,3 @@
-TRANSCRIPTS PAGE
-
 ---
 layout: default
 title: Horror
