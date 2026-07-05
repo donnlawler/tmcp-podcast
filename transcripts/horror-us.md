@@ -9,10 +9,10 @@ title: Horror
   
 <div class="transcript-intro">
 
-<h1>Jaws</h1>
+<h1>Us</h1>
 
 <p class="episode-subtitle">
-What Lurks Beneath
+The Horror in the Mirror
 </p>
 
 </div>
@@ -24,7 +24,7 @@ What Lurks Beneath
 <iframe
   data-testid="embed-iframe"
   style="border-radius:12px"
-  src="https://open.spotify.com/embed/episode/2pzaqfAe0N4i8gMcjUFBQM?utm_source=generator&theme=0&si=cd399084b174426f"
+  src="https://open.spotify.com/embed/episode/68MTzboAWHxp0d8TCg2rcl?utm_source=generator&theme=0&si=cd399084b174426f"
   width="100%"
   height="152"
   frameborder="0"
@@ -101,16 +101,16 @@ See you next time.
 -->
 <div class="episode-nav">
 
-<a href="/tmcp-podcast/transcripts/horror-halloween" class="button">
-← Halloween
+<a href="/tmcp-podcast/transcripts/horror-hereditary" class="button">
+← Hereditary
 </a>
 
 <a href="/tmcp-podcast/episodes#horror" class="button">
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/horror-the-shining" class="button">
-The Shining →
+<a href="/tmcp-podcast/transcripts/fantasy-beowulf" class="button">
+Beowulf →
 </a>
 
 </div>
