@@ -84,54 +84,10 @@ Jack doesn’t sign a contract. He just raises the glass. And that’s enough to
 </p>
 
 <p>
-Kubrick didn’t just direct The Shining. He meticulously constructed it as a complex, layered masterpiece. Rather than presenting a straightforward story with a clear beginning, middle, and end, he designed it as an intricate architectural riddle—a postmodern monument that embodies perpetual uncertainty. Nothing in the film offers a neat or definitive resolution; each answer the audience uncovers only serves to deepen the mystery, raising new questions. Time itself becomes warped and distorted, 
-motives collapse under the weight of ambiguity, 
-and the supernatural elements seamlessly oscillate between psychological realism 
-and supernatural phenomena, 
-blurring the lines between perception and reality.
+Kubrick didn’t just direct The Shining. He meticulously constructed it as a complex, layered masterpiece. Rather than presenting a straightforward story with a clear beginning, middle, and end, he designed it as an intricate architectural riddle—a postmodern monument that embodies perpetual uncertainty. Nothing in the film offers a neat or definitive resolution; each answer the audience uncovers only serves to deepen the mystery, raising new questions. Time itself becomes warped and distorted, motives collapse under the weight of ambiguity, and the supernatural elements seamlessly oscillate between psychological realism and supernatural phenomena, blurring the lines between perception and reality. And perhaps this is the very reason why The Shining continues to resonate with audiences over the years. It takes familiar genre conventions—haunted mansions, isolated settings, sinister forces—and hollows them out from within, transforming them into cold, echoing chambers of dread that are dangerously unstable, always shifting just beyond comprehension. In Jack, we observe a profound transformation.  We watch a man gradually shed his former self and emerge as a complex character, embodying both helplessness and darkness. Over time, this character eclipses mortality to become an enduring legend carved into the collective consciousness. Ultimately, this myth becomes part of the architecture that consumed him.
 
-And perhaps 
-this is the very reason why The Shining
-continues to resonate with audiences over the years. 
-It takes familiar genre conventions—
-haunted mansions, isolated settings, sinister forces—
-and hollows them out from within, 
-transforming them into cold, 
-echoing chambers of dread that are dangerously unstable, 
-always shifting just beyond comprehension.
-
-In Jack, we observe a profound transformation. 
-We watch a man gradually shed his former self 
-and emerge as a complex character, 
-embodying both helplessness and darkness. 
-Over time, this character eclipses mortality to become 
-an enduring legend carved into the collective consciousness. 
-Ultimately, this myth becomes part of the architecture that consumed him.
-
-In the surreal and meticulously crafted world Kubrick builds, 
-madness isn’t simply a fleeting break from reality. 
-Instead, it embodies reality itself—
-stripped of illusions, exposed in its raw, unvarnished form. 
-Its cycles are endless, recurring with unforgiving consistency. 
-And all of this unfolds through a cinematic lens, 
-emphasizing the hypnotic beauty of chaos and order twisted together.
-
-Postmodern horror is about the relentless cycle of the same fears—
-echoes of dread that resurface again and again, 
-not just in the stories we tell, but in how we experience them.
-The terror isn’t new. 
-It’s recycled, recontextualized and looped—
-like Jack Torrance swinging the axe in 1980, 
-or Norman Bates smiling into the camera in 1960. 
-These moments don’t just end when the film does. 
-They linger. 
-They repeat. 
-They haunt the genre the same way the Overlook haunts its guests.
-These terrifying experiences unfold behind different doors, 
-altering their appearances but never their essence. 
-They manifest in different lives,
-haunted by the persistent presence 
-of the same — underlying dread. And that, perhaps, is the most terrifying truth of all.
+<p>
+In the surreal and meticulously crafted world Kubrick builds, madness isn’t simply a fleeting break from reality. Instead, it embodies reality itself—stripped of illusions, exposed in its raw, unvarnished form. Its cycles are endless, recurring with unforgiving consistency. And all of this unfolds through a cinematic lens, emphasizing the hypnotic beauty of chaos and order twisted together. Postmodern horror is about the relentless cycle of the same fears—echoes of dread that resurface again and again, not just in the stories we tell, but in how we experience them. The terror isn’t new.  It’s recycled, recontextualized and looped—like Jack Torrance swinging the axe in 1980, or Norman Bates smiling into the camera in 1960. These moments don’t just end when the film does. They linger. They repeat. They haunt the genre the same way the Overlook haunts its guests. These terrifying experiences unfold behind different doors, altering their appearances but never their essence. They manifest in different lives, haunted by the persistent presence of the same underlying dread. And that, perhaps, is the most terrifying truth of all.
 </p>
 
 <p>
