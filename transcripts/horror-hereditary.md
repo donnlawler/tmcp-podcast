@@ -88,8 +88,6 @@ That’s your thought for the day—minimum commitment, maximum meaning.
 See you next time.
 </p>
 
-</div>
-
 <!-- Optional sections can be added here later:
 
 <section class="optional-section">
