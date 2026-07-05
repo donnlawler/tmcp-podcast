@@ -187,16 +187,15 @@ Brief description of the work and why it is relevant to the film, theory, or the
 
 <div class="episode-nav">
 
-<a href="/tmcp-podcast/transcripts/noir-dark-city" class="button">
-← Dark City
-</a>
+<a href="/tmcp-podcast/transcripts/horror-jaws" class="button">
+← Jaws
 
 <a href="/tmcp-podcast/episodes#sci-fi" class="button">
 Back to Episodes
 </a>
 
-<a href="/tmcp-podcast/transcripts/sci-logans-run" class="button">
-Logan's Run →
+<a href="/tmcp-podcast/transcripts/horror-the-exorcist" class="button">
+The Exorcist →
 </a>
 
 </div>
