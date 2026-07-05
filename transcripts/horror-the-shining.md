@@ -84,15 +84,7 @@ Jack doesn’t sign a contract. He just raises the glass. And that’s enough to
 </p>
 
 <p>
-Kubrick didn’t just direct The Shining.
-He meticulously constructed it as a complex, layered masterpiece. 
-Rather than presenting a straightforward story with a clear beginning, middle, and end, he designed it as an intricate architectural riddle—
-a postmodern monument that embodies perpetual uncertainty. 
-Nothing in the film offers a neat or definitive resolution; 
-each answer the audience uncovers 
-only serves to deepen the mystery, 
-raising new questions. 
-Time itself becomes warped and distorted, 
+Kubrick didn’t just direct The Shining. He meticulously constructed it as a complex, layered masterpiece. Rather than presenting a straightforward story with a clear beginning, middle, and end, he designed it as an intricate architectural riddle—a postmodern monument that embodies perpetual uncertainty. Nothing in the film offers a neat or definitive resolution; each answer the audience uncovers only serves to deepen the mystery, raising new questions. Time itself becomes warped and distorted, 
 motives collapse under the weight of ambiguity, 
 and the supernatural elements seamlessly oscillate between psychological realism 
 and supernatural phenomena, 
@@ -139,15 +131,15 @@ These terrifying experiences unfold behind different doors,
 altering their appearances but never their essence. 
 They manifest in different lives,
 haunted by the persistent presence 
-of the same — underlying dread.
-
-And that, perhaps, is the most terrifying truth of all.
+of the same — underlying dread. And that, perhaps, is the most terrifying truth of all.
 </p>
 
 <p>
 That’s your thought for the day — Minimum Commitment, Maximum Meaning.
 See you next time.
 </p>
+
+</div>
 
 <!-- Optional sections can be added here later:
 
