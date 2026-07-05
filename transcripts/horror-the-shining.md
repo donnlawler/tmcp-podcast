@@ -185,8 +185,6 @@ Brief description of the work and why it is relevant to the film, theory, or the
 
 -->
 
-</section>
-
 <div class="episode-nav">
 
 <a href="/tmcp-podcast/transcripts/noir-dark-city" class="button">
