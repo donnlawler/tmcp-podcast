@@ -86,8 +86,8 @@ Jack doesn’t sign a contract. He just raises the glass. And that’s enough to
 </p>
 
 <p>
-Kubrick didn’t just direct The Shining—
-he meticulously constructed it as a complex, layered masterpiece. 
+Kubrick didn’t just direct The Shining.
+He meticulously constructed it as a complex, layered masterpiece. 
 Rather than presenting a straightforward story with a clear beginning, middle, and end, he designed it as an intricate architectural riddle—
 a postmodern monument that embodies perpetual uncertainty. 
 Nothing in the film offers a neat or definitive resolution; 
