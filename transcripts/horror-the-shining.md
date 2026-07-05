@@ -148,7 +148,6 @@ And that, perhaps, is the most terrifying truth of all.
 That’s your thought for the day — Minimum Commitment, Maximum Meaning.
 See you next time.
 </p>
-</div>
 
 <!-- Optional sections can be added here later:
 
