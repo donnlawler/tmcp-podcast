@@ -105,26 +105,32 @@ See you next time.
 <div class="recommended-book">
 
 <strong>The Family Romance</strong><br>
+
 Sigmund Freud
 
 <p>
+
 Freud's essay explores the psychological process by which individuals construct idealized or imagined familial identities. The text provides a useful framework for understanding questions of identity, inheritance, and self-construction in film narratives.
+
 </p>
 
 </div>
-
-<!-- Additional books may be added as needed
 
 <div class="recommended-book">
 
 <strong>Book Title</strong><br>
+
 Author Name
 
 <p>
+
 Brief description of the work and why it is relevant to the film, theory, or themes discussed in the episode.
+
 </p>
 
 </div>
+
+</section>
 
 -->
 <div class="episode-nav">
