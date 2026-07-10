@@ -97,7 +97,7 @@ The revelation isn’t meant to shock. It’s meant to expose how easily we mist
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning. See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
 </div>
