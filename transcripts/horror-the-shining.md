@@ -94,7 +94,6 @@ In the surreal and meticulously crafted world Kubrick builds, madness isn’t si
 That’s your thought for the day — Minimum Commitment, Maximum Meaning.
 See you next time.
 </p>
-</div>
 
 <!-- Optional sections can be added here later:
 
