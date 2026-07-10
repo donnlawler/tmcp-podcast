@@ -84,8 +84,7 @@ Hereditary is often described as a haunting film about grief and loss, capturing
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
-See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
 <!-- Optional sections can be added here later:
