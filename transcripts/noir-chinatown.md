@@ -137,8 +137,7 @@ It just shows you who was never in danger to begin with.
 </p>
 
 <p>
-That’s your thought for the day — Minimum Commitment, Maximum Meaning.
-See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
 </div>
