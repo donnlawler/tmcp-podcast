@@ -106,8 +106,7 @@ Logan’s Run feels like camp. But it’s deadly serious. It’s a warning wrapp
 </p>
 
 <p>
-That’s your thought for the day — Minimum Commitment, Maximum Meaning.
-See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
 </div>
