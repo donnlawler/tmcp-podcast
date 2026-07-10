@@ -151,8 +151,7 @@ it just moves indoors, into the language of senators and systems.
 </p>
 
 <p>
-That’s your thought for the day — Minimum Commitment, Maximum Meaning.
-See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
 </div>
