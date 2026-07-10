@@ -85,8 +85,7 @@ When the shark is finally defeated, The return home ritual is far from expected.
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
-See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
 </div>
