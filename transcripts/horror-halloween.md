@@ -90,8 +90,7 @@ Something about Halloween lingers to this day, maybe because it’s so understat
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
-See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 </div>
 
