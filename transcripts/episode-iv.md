@@ -182,8 +182,7 @@ It’s a shape carved deep into myth drawn forward by the unknown, and reshaped 
 </p>
 
 <p>
-That’s your thought for the day — Minimum Commitment, Maximum Meaning.
-See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
 </div>
