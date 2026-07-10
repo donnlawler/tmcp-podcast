@@ -94,6 +94,8 @@ In the surreal and meticulously crafted world Kubrick builds, madness isn’t si
 That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
+</div>
+
 <!-- Optional sections can be added here later:
 
 <section class="optional-section">
@@ -125,8 +127,6 @@ Author Name
 Brief description of the work and why it is relevant to the film, theory, or themes discussed in the episode.
 
 </p>
-
-</div>
 
 </section>
 
