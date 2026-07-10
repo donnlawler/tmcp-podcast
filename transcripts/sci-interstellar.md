@@ -117,8 +117,7 @@ Perhaps Nolan's message is that our best future isn’t shaped by what happens t
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
-See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
 </div>
