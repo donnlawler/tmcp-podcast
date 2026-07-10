@@ -85,8 +85,7 @@ When the lights fade in The Exorcist, we’re not left with victory—We’re le
 </p>
 
 <p>
-That’s your thought for the day—minimum commitment, maximum meaning.
-See you next time.
+That’s your thought for the day — Minimum Commitment, Maximum Meaning. See you next time.
 </p>
 
 </div>
