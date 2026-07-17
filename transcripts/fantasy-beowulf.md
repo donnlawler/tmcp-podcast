@@ -78,16 +78,22 @@ Animating Beowulf with full motion-capture was more than a technological experim
 
 <p>
 When Beowulf descends into the cavern to face Grendel’s Mother, he doesn’t find a monster waiting to fight. He finds something far more dangerous: seduction. She doesn’t threaten him with claws or teeth. She threatens him with understanding. She speaks in riddles and enchantment, but she names him plainly: a man pretending to be a legend, hiding his shame behind his glamour.
-  
-“I know that underneath your glamour, you are as much a monster as my son.”
+</p>
 
+<p>
+“I know that underneath your glamour, you are as much a monster as my son.”
+</p>
+
+<p>
 The illusion begins to crack. Beowulf came to this kingdom to become a hero to be sung about and immortalized. But in this moment, what’s offered isn’t glory; it’s power, a kingdom, a crown, the shape of legacy. All she asks is that he leave the truth buried in that cave. She knows he will, because she knows he wants the story more than the truth. This is the breaking point, the moment where Beowulf trades myth for silence, and a curse is passed like an heirloom.
 </p>
 
 <p>
 This is where the post-structuralist reading ignites. Beowulf isn’t just choosing power over truth he’s choosing sign over meaning. The word “hero” becomes detached from the man wearing it. Language bends to legacy. The poem may sing of victories. But the film lingers in what’s unsaid. Everything that follows bends around this decision. The story doesn’t escalate from here—it collapses. Beowulf returns from the cave a hero. Grendel is dead. The threat is over. A new king ascends. A new story begins. At least, that’s the version sung in the halls. But we know better. We saw the bargain. We saw what he gave up to wear the crown. Years pass. The stories grow louder. The truth, quieter. Beowulf governs with strength. He wins battles. Builds peace. But the silence between his victories speaks louder than his boasts ever did. There’s no celebration in his eyes anymore. Only the weight of a promise he regrets. And then—when the dragon stirs, and fire returns to the sky. The charade can no longer hold. He tries on the armor one last time. Not because he believes he’ll win but because he knows no one else can carry the weight of what he began. The dragon is coming. And with it, the echo of a curse he set in motion years ago. Beowulf knows this is his to end. But before he goes, there’s one more reckoning. Wealhtheow enters not as queen, but as the only person who ever knew the man before the myth. She offers him a way out. Take the young mistress. Let some new hero rise. Leave the weight behind. But of course, Beowulf cannot. He’s seen what happens when power passes unearned. And so, in that quiet room, he confesses everything. The weakness. The vanity. The seduction that changed everything. This is the heart of the myth, not dragons, not kingdoms. A man facing the truth of himself in front of the only person whose memory truly matters.
-  
+
+<p>  
 “Keep a memory of me. Not as a king or a hero. But as a man—fallible and flawed.”
+</p>
 
 Whether Wealhtheow can grant this request remains unspoken. But we feel it. In the way she looks at him—maybe for the last time, not as a god or a warrior, but as someone she once loved. And still does.
 </p>
